@@ -58,12 +58,10 @@
                 },
 
                 xAxis: {
-//                    categories: getCapacityCategories()
                     categories: categoriesCapacityKeys
                 },
 
                 yAxis: {
-//                    categories: getPriceCategories(),
                     categories: categoriesPriceKeys,
                     title: null
                 },
@@ -140,7 +138,7 @@
 
 
     function getDataFromFile(){
-        $.getJSON("../db/mobileDe_statistic"+selectedYear+".json", function(receivedData){
+        $.getJSON("https://fphauto.github.io/static_mobile.de_21.12.2016/db/mobileDe_statistic"+selectedYear+".json", function(receivedData){
             data = _.omit(receivedData[0], "600ccm");
             prepareData();
             renderChart();
