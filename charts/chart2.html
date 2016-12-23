@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/heatmap.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<select name="years" id="" class="years"></select>
+<div id="container" style="min-width: 310px; height: 1250px; margin: 0 auto"></div>
+<script>
+
+    var categoriesCapacityKeys;
+    var categoriesPriceKeys;
+    var dataForChart;
+
+    var data;
+    var selectedYear=1990;
+
+    $(function(){
+        getDataFromFile();
+        var $select = $("select");
+        var year = 1990;
+        while(year<=2016){
+            $select.append("<option value='"+year+"'>"+year+"</option>");
+            year = year+1;
+        }
+
+        $select.change(function(){
+            selectedYear = $("select option:selected").val();
+            getDataFromFile();
+        });
+    });
+
+    function renderChart() {
+            Highcharts.chart('container', {
+
+                chart: {
+                    type: 'heatmap',
+                    marginTop: 40,
+                    marginBottom: 80,
+                    plotBorderWidth: 1
+                },
+
+                plotOptions:{
+                    series:{
+                        turboThreshold:5000//set it to a larger threshold, it is by default to 1000
+                    }
+                },
+
+                title: {
+                    text: 'Количество выставленных на продажу автомобилей '+selectedYear+' года выпуска на сайте Mobile.De '+ data.total+ "автомобилей"
+                },
+
+                xAxis: {
+//                    categories: getCapacityCategories()
+                    categories: categoriesCapacityKeys
+                },
+
+                yAxis: {
+//                    categories: getPriceCategories(),
+                    categories: categoriesPriceKeys,
+                    title: null
+                },
+
+                colorAxis: {
+                    min: 0,
+                    minColor: '#FFFFFF',
+                    maxColor: Highcharts.getOptions().colors[0]
+                },
+
+                legend: {
+                    align: 'right',
+                    layout: 'vertical',
+                    margin: 0,
+                    verticalAlign: 'top',
+                    y: 25,
+                    symbolHeight: 1100
+                },
+
+                tooltip: {
+                    formatter: function () {
+                        return '<b>' + this.series.xAxis.categories[this.point.x] + '</b> sold <br><b>' +
+                                this.point.value + '</b> items on <br><b>' + this.series.yAxis.categories[this.point.y] + '</b>';
+                    }
+                },
+
+                series: [{
+                    name: 'Sales per employee',
+                    borderWidth: 1,
+//                    data: getData(),
+                    data: dataForChart,
+                    dataLabels: {
+                        enabled: true,
+                        color: '#000000'
+                    }
+                }]
+
+            });
+
+    }
+
+
+    function getCapacityCategories(){
+        categoriesCapacityKeys = _.keys(data);
+        return categoriesCapacityKeys;
+    }
+
+    function getPriceCategories(){
+        var keys = _.keys(data);
+        categoriesPriceKeys = _.keys(data[keys[0]]).slice(1);
+        return categoriesPriceKeys;
+    }
+
+    function getData(){
+        var dataArr = [];
+        _.each(data, function(item, key){
+            var capacity = key;
+            _.each(item, function(priceObj, key){
+                if(_.isObject(priceObj)){
+                    var chartItem = [categoriesCapacityKeys.indexOf(capacity), categoriesPriceKeys.indexOf(key), priceObj.item];
+                    dataArr.push(chartItem);
+                }
+            });
+        });
+        dataForChart = dataArr;
+        return dataArr
+    }
+
+    function prepareData(){
+        getCapacityCategories();
+        getPriceCategories();
+        getData();
+    }
+
+
+    function getDataFromFile(){
+        $.getJSON("../db/mobileDe_statistic"+selectedYear+".json", function(receivedData){
+            data = _.omit(receivedData[0], "600ccm");
+            prepareData();
+            renderChart();
+        });
+    }
+
+</script>
+</body>
+</html>
