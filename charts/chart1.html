@@ -14,8 +14,9 @@
 <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 <script>
     var yearsCategories = [];
+    var totalCount = 0;
     var series = {
-        name: "aaaa",
+        name: "Обшее количество автомобилей " + totalCount,
         data: []
     };
 
@@ -59,14 +60,20 @@
         if(year<=2016){
             yearsCategories.push(year);
             series.data.push(total);
+            totalCount = _.isUndefined(total) ? totalCount : totalCount+ total
         }
 
         if(year===2016){
+            setTitle();
             renderChart();
         }else{
             getDataFromFile(year+1)
         }
 
+    }
+
+    function setTitle(){
+        series.name = "Обшее количество автомобилей " + totalCount
     }
 
     function getDataFromFile(year){
