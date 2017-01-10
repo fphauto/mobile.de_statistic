@@ -1,0 +1,1375 @@
+[
+  {
+    "600ccm": {
+      "capacityCount": 0,
+      "1000EUR": {
+        "item": 0,
+        "total": 0
+      }
+    },
+    "700ccm": {
+      "capacityCount": 2,
+      "0EUR": {
+        "item": 0,
+        "total": 0
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 0
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 0
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 0
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 0
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 0
+      },
+      "600EUR": {
+        "item": 1,
+        "total": 1
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 1
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 1
+      },
+      "900EUR": {
+        "item": 1,
+        "total": 2
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 2
+      }
+    },
+    "800ccm": {
+      "capacityCount": 0,
+      "0EUR": {
+        "item": 0,
+        "total": 2
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 2
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 2
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 2
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 2
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 2
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 2
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 2
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 2
+      },
+      "900EUR": {
+        "item": 0,
+        "total": 2
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 2
+      }
+    },
+    "900ccm": {
+      "capacityCount": 15,
+      "0EUR": {
+        "item": 0,
+        "total": 2
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 2
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 2
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 2
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 2
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 2
+      },
+      "600EUR": {
+        "item": 2,
+        "total": 4
+      },
+      "700EUR": {
+        "item": 2,
+        "total": 6
+      },
+      "800EUR": {
+        "item": 4,
+        "total": 10
+      },
+      "900EUR": {
+        "item": 4,
+        "total": 14
+      },
+      "1000EUR": {
+        "item": 3,
+        "total": 17
+      }
+    },
+    "1000ccm": {
+      "capacityCount": 9,
+      "0EUR": {
+        "item": 0,
+        "total": 17
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 17
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 17
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 17
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 17
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 17
+      },
+      "600EUR": {
+        "item": 1,
+        "total": 18
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 18
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 18
+      },
+      "900EUR": {
+        "item": 7,
+        "total": 25
+      },
+      "1000EUR": {
+        "item": 1,
+        "total": 26
+      }
+    },
+    "1100ccm": {
+      "capacityCount": 25,
+      "0EUR": {
+        "item": 0,
+        "total": 26
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 26
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 26
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 26
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 26
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 26
+      },
+      "600EUR": {
+        "item": 3,
+        "total": 29
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 29
+      },
+      "800EUR": {
+        "item": 4,
+        "total": 33
+      },
+      "900EUR": {
+        "item": 14,
+        "total": 47
+      },
+      "1000EUR": {
+        "item": 4,
+        "total": 51
+      }
+    },
+    "1200ccm": {
+      "capacityCount": 40,
+      "0EUR": {
+        "item": 0,
+        "total": 51
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 51
+      },
+      "200EUR": {
+        "item": 1,
+        "total": 52
+      },
+      "300EUR": {
+        "item": 2,
+        "total": 54
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 54
+      },
+      "500EUR": {
+        "item": 8,
+        "total": 62
+      },
+      "600EUR": {
+        "item": 3,
+        "total": 65
+      },
+      "700EUR": {
+        "item": 5,
+        "total": 70
+      },
+      "800EUR": {
+        "item": 4,
+        "total": 74
+      },
+      "900EUR": {
+        "item": 11,
+        "total": 85
+      },
+      "1000EUR": {
+        "item": 6,
+        "total": 91
+      }
+    },
+    "1300ccm": {
+      "capacityCount": 15,
+      "0EUR": {
+        "item": 0,
+        "total": 91
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 91
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 91
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 91
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 91
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 91
+      },
+      "600EUR": {
+        "item": 1,
+        "total": 92
+      },
+      "700EUR": {
+        "item": 2,
+        "total": 94
+      },
+      "800EUR": {
+        "item": 3,
+        "total": 97
+      },
+      "900EUR": {
+        "item": 9,
+        "total": 106
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 106
+      }
+    },
+    "1400ccm": {
+      "capacityCount": 11,
+      "0EUR": {
+        "item": 0,
+        "total": 106
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 106
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 106
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 106
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 106
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 106
+      },
+      "600EUR": {
+        "item": 1,
+        "total": 107
+      },
+      "700EUR": {
+        "item": 1,
+        "total": 108
+      },
+      "800EUR": {
+        "item": 1,
+        "total": 109
+      },
+      "900EUR": {
+        "item": 7,
+        "total": 116
+      },
+      "1000EUR": {
+        "item": 1,
+        "total": 117
+      }
+    },
+    "1500ccm": {
+      "capacityCount": 9,
+      "0EUR": {
+        "item": 0,
+        "total": 117
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 117
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 117
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 117
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 117
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 117
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 117
+      },
+      "700EUR": {
+        "item": 2,
+        "total": 119
+      },
+      "800EUR": {
+        "item": 3,
+        "total": 122
+      },
+      "900EUR": {
+        "item": 4,
+        "total": 126
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 126
+      }
+    },
+    "1600ccm": {
+      "capacityCount": 2,
+      "0EUR": {
+        "item": 0,
+        "total": 126
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 126
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 126
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 126
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 126
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 126
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 126
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 126
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 126
+      },
+      "900EUR": {
+        "item": 1,
+        "total": 127
+      },
+      "1000EUR": {
+        "item": 1,
+        "total": 128
+      }
+    },
+    "1700ccm": {
+      "capacityCount": 2,
+      "0EUR": {
+        "item": 0,
+        "total": 128
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 128
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 128
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 128
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 128
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 128
+      },
+      "600EUR": {
+        "item": 1,
+        "total": 129
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 129
+      },
+      "800EUR": {
+        "item": 1,
+        "total": 130
+      },
+      "900EUR": {
+        "item": 0,
+        "total": 130
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 130
+      }
+    },
+    "1800ccm": {
+      "capacityCount": 6,
+      "0EUR": {
+        "item": 0,
+        "total": 130
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 130
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 130
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 130
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 130
+      },
+      "500EUR": {
+        "item": 1,
+        "total": 131
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 131
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 131
+      },
+      "800EUR": {
+        "item": 1,
+        "total": 132
+      },
+      "900EUR": {
+        "item": 3,
+        "total": 135
+      },
+      "1000EUR": {
+        "item": 1,
+        "total": 136
+      }
+    },
+    "1900ccm": {
+      "capacityCount": 23,
+      "0EUR": {
+        "item": 0,
+        "total": 136
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 136
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 136
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 136
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 136
+      },
+      "500EUR": {
+        "item": 1,
+        "total": 137
+      },
+      "600EUR": {
+        "item": 2,
+        "total": 139
+      },
+      "700EUR": {
+        "item": 3,
+        "total": 142
+      },
+      "800EUR": {
+        "item": 3,
+        "total": 145
+      },
+      "900EUR": {
+        "item": 6,
+        "total": 151
+      },
+      "1000EUR": {
+        "item": 8,
+        "total": 159
+      }
+    },
+    "2000ccm": {
+      "capacityCount": 0,
+      "0EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "900EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 159
+      }
+    },
+    "2100ccm": {
+      "capacityCount": 3,
+      "0EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 159
+      },
+      "800EUR": {
+        "item": 1,
+        "total": 160
+      },
+      "900EUR": {
+        "item": 1,
+        "total": 161
+      },
+      "1000EUR": {
+        "item": 1,
+        "total": 162
+      }
+    },
+    "2200ccm": {
+      "capacityCount": 0,
+      "0EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "900EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 162
+      }
+    },
+    "2300ccm": {
+      "capacityCount": 0,
+      "0EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "900EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 162
+      }
+    },
+    "2400ccm": {
+      "capacityCount": 2,
+      "0EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 162
+      },
+      "700EUR": {
+        "item": 1,
+        "total": 163
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 163
+      },
+      "900EUR": {
+        "item": 0,
+        "total": 163
+      },
+      "1000EUR": {
+        "item": 1,
+        "total": 164
+      }
+    },
+    "2500ccm": {
+      "capacityCount": 0,
+      "0EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "900EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 164
+      }
+    },
+    "2600ccm": {
+      "capacityCount": 0,
+      "0EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "900EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 164
+      }
+    },
+    "2700ccm": {
+      "capacityCount": 0,
+      "0EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "900EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 164
+      }
+    },
+    "2800ccm": {
+      "capacityCount": 0,
+      "0EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "900EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 164
+      }
+    },
+    "2900ccm": {
+      "capacityCount": 3,
+      "0EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 164
+      },
+      "500EUR": {
+        "item": 1,
+        "total": 165
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 165
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 165
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 165
+      },
+      "900EUR": {
+        "item": 2,
+        "total": 167
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 167
+      }
+    },
+    "3000ccm": {
+      "capacityCount": 0,
+      "0EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "900EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 167
+      }
+    },
+    "3100ccm": {
+      "capacityCount": 0,
+      "0EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "900EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 167
+      }
+    },
+    "3200ccm": {
+      "capacityCount": 0,
+      "0EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "900EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 167
+      }
+    },
+    "3300ccm": {
+      "capacityCount": 0,
+      "0EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "900EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 167
+      }
+    },
+    "3400ccm": {
+      "capacityCount": 0,
+      "0EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "900EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 167
+      }
+    },
+    "3500ccm": {
+      "capacityCount": 0,
+      "0EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "100EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "200EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "300EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "400EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "500EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "600EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "700EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "800EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "900EUR": {
+        "item": 0,
+        "total": 167
+      },
+      "1000EUR": {
+        "item": 0,
+        "total": 167
+      }
+    },
+    "total": 167
+  }
+]

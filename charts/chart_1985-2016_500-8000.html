@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+<script>
+    var yearsCategories = [];
+    var totalCount = 0;
+    var series = {
+        name: "Обшее количество автомобилей " + totalCount,
+        data: []
+    };
+
+
+    function renderChart () {
+        Highcharts.chart('container', {
+            chart: {
+                type: 'line'
+            },
+            title: {
+                text: 'Статистика предложений на сайте Mobile.De 21.12.2016 (все виды топлива, 700-3500куб. см, цена 500-8000 евро, 1985-2016)'
+            },
+            subtitle: {
+                text: 'Подготовленно информационно-аналитической группой #ВільніЛюдиМаютьАвто на основе данныx Mobile.De'
+            },
+            xAxis: {
+                categories: yearsCategories
+            },
+            yAxis: {
+                title: {
+                    text: 'Количество автомобилей (шт)'
+                }
+            },
+            plotOptions: {
+                line: {
+                    dataLabels: {
+                        enabled: true
+                    },
+                    enableMouseTracking: false
+                }
+            },
+            series: [series]
+        });
+    }
+
+    $(function(){
+        getDataFromFile(1985);
+    });
+
+    function prepareData(year, total){
+        if(year<=2016){
+            yearsCategories.push(year);
+            series.data.push(total);
+            totalCount = _.isUndefined(total) ? totalCount : totalCount+ total
+        }
+
+        if(year===2016){
+            setTitle();
+            renderChart();
+        }else{
+            getDataFromFile(year+1)
+        }
+
+    }
+
+    function setTitle(){
+        series.name = "Обшее количество автомобилей " + totalCount
+    }
+
+    function getDataFromFile(year){
+        if(year<=2016){
+            $.getJSON("https://fphauto.github.io//mobileDe_statistic"+year+".json", function(receivedData){
+                var total = receivedData[0].total;
+
+                prepareData(year, total);
+
+            });
+        }
+    }
+
+</script>
+</body>
+</html>
