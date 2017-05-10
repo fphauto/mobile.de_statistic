@@ -81,6 +81,37 @@
     }
 
 */
+    function renderChart(){
+        Highcharts.chart('container', {
+            chart: {
+                type: 'line'
+            },
+            title: {
+                text: ''
+            },
+            subtitle: {
+                text: 'Подготовленно информационно-аналитической группой #ВільніЛюдиМаютьАвто на основе данныx Mobile.De'
+            },
+            xAxis: {
+                categories: capacityCategories
+            },
+            yAxis: {
+                title: {
+                    text: 'Количество автомобилей (шт)'
+                }
+            },
+            plotOptions: {
+                line: {
+                    dataLabels: {
+                        enabled: true
+                    },
+                    enableMouseTracking: false
+                }
+            },
+            series: series
+        });
+    }
+
     function renderTable () {
         var table = $("table");
         _.each(obj, function (item, rowName) {
@@ -90,12 +121,10 @@
             _.each(item, function(value, key) {
                 if(key === "rangeCount") return;
                 row.append($("<td>"+value+"</td>"))
-            })
-            row.append("<td>"+item.rangeCount+"</td>")
+            });
+            row.append("<td>"+item.rangeCount+"</td>");
             table.append(row)
         });
-        
-
     }
 
     $(function(){
@@ -103,16 +132,26 @@
     });
 
     function prepareData(){
-        // capacityCategories = _.keys(obj);
-        // series.data = _.values(obj);
-        // totalCount = 0;
+        series = [];
+        totalCount = 0;
 
-        // _.each(obj, function(value){
-        //     totalCount = totalCount + value;
-        // });
+        _.each(obj, function(value){
+            totalCount = totalCount + value;
+        });
+
+        _.each(obj, function(item, key){
+            if(key === "total") return
+            if(capacityCategories) capacityCategories = _.keys(_.omit(item, "rangeCount"));
+
+            series.push({
+                name: key,
+                data: _.values(_.omit(item, "rangeCount"))
+            })
+        });
 
         setTitle();
         renderTable();
+        renderChart();
     }
 
     function setTitle(){
