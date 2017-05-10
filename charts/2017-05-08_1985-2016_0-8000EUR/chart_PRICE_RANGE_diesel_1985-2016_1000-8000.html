@@ -77,7 +77,7 @@
 
     function getDataFromFile(year){
         if(year<=2016){
-            $.getJSON("https://fphauto.github.io/static_mobile.de_21.12.2016/db/all_dizel_1985-2016_1000-8000EURO/mobileDe_statistic"+year+".json", function(receivedData){
+            $.getJSON(rootURL+"db/2017-05-08_1985-2016_0-8000EUR/all_diesel_1985-2016_1000-8000EURO/mobileDe_statistic"+year+".json", function(receivedData){
                 var total = receivedData[0].total;
 
                 remapJSON(receivedData[0], year)
@@ -93,13 +93,41 @@
             if(capacity === "total") return;
             _.each(item, function(value, key){
                 if(key === "capacityCount") return;
-                if(!obj[key]){
-                    obj[key]= value.item;
-                }else{
-                    obj[key]= obj[key] + value.item
+
+                if(parseInt(key)<=1000 ){
+                    prepareRange ( "1000EUR", value.item)
+                }
+                else if(parseInt(key)>1000 && parseInt(key)<=2000) {
+                    prepareRange ( "2000EUR", value.item)
+                }
+                else if(parseInt(key)>2000 && parseInt(key)<=3000) {
+                    prepareRange ( "3000EUR", value.item)
+                }
+                else if(parseInt(key)>3000 && parseInt(key)<=4000) {
+                    prepareRange ( "4000EUR", value.item)
+                }
+                else if(parseInt(key)>4000 && parseInt(key)<=5000) {
+                    prepareRange ( "5000EUR", value.item)
+                }
+                else if(parseInt(key)>5000 && parseInt(key)<=6000) {
+                    prepareRange ( "6000EUR", value.item)
+                }
+                else if(parseInt(key)>6000 && parseInt(key)<=7000) {
+                    prepareRange ( "7000EUR", value.item)
+                }
+                else if(parseInt(key)>7000 && parseInt(key)<=8000) {
+                    prepareRange ( "8000EUR", value.item)
                 }
             });
         });
+
+        function prepareRange ( price, item){
+            if(!obj[price]) {
+                obj[price]= item
+            }else{
+                obj[price]= obj[price] + item
+            }
+        }
 
         if(year<=2016){
             getDataFromFile(year+1)

@@ -13,12 +13,14 @@
 
 <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 <script>
-    var yearsCategories = [];
+    var capacityCategories = [];
     var totalCount = 0;
     var series = {
         name: "Обшее количество автомобилей " + totalCount,
         data: []
     };
+
+    var obj = {}
 
 
     function renderChart () {
@@ -27,13 +29,13 @@
                 type: 'line'
             },
             title: {
-                text: 'Статистика предложений на сайте Mobile.De 05.05.2017 (БЕНЗИН, 500-3000куб. см, цена 0-8000 евро, 1985-2016)'
+                text: 'Статистика предложений на сайте Mobile.De 05.05.2017 (Сортировка по объему ДВС, ДИЗЕЛЬ, 500-2500куб. см, цена 0-8000 евро, 1985-2016)'
             },
             subtitle: {
                 text: 'Подготовленно информационно-аналитической группой #ВільніЛюдиМаютьАвто на основе данныx Mobile.De'
             },
             xAxis: {
-                categories: yearsCategories
+                categories: capacityCategories
             },
             yAxis: {
                 title: {
@@ -56,20 +58,17 @@
         getDataFromFile(1985);
     });
 
-    function prepareData(year, total){
-        if(year<=2016){
-            yearsCategories.push(year);
-            series.data.push(total);
-            totalCount = _.isUndefined(total) ? totalCount : totalCount+ total
-        }
+    function prepareData(){
+        capacityCategories = _.keys(obj);
+        series.data = _.values(obj);
+        totalCount = 0;
 
-        if(year===2016){
-            setTitle();
-            renderChart();
-        }else{
-            getDataFromFile(year+1)
-        }
+        _.each(obj, function(value){
+            totalCount = totalCount + value;
+        });
 
+        setTitle();
+        renderChart();
     }
 
     function setTitle(){
@@ -78,12 +77,34 @@
 
     function getDataFromFile(year){
         if(year<=2016){
-            $.getJSON("https://fphauto.github.io/static_mobile.de_21.12.2016/db/all_benzin_1985-2016_1000-8000EURO/mobileDe_statistic"+year+".json", function(receivedData){
+            $.getJSON(rootURL+"db/2017-05-08_1985-2016_0-8000EUR/all_diesel_1985-2016_1000-8000EURO/mobileDe_statistic"+year+".json", function(receivedData){
                 var total = receivedData[0].total;
 
-                prepareData(year, total);
-
+                remapJSON(receivedData[0], year)
             });
+        }else{
+            console.log(obj)
+        }
+    }
+
+
+    function remapJSON(json, year){
+        _.each(json, function(item, capacity){
+            if(capacity === "total") return;
+            if(!obj[capacity]){
+                obj[capacity] = item.capacityCount
+            }else{
+                obj[capacity] = obj[capacity] + item.capacityCount
+            }
+
+
+        });
+        if(year<=2016){
+            getDataFromFile(year+1)
+        }
+
+        if(year === 2016){
+            prepareData();
         }
     }
 

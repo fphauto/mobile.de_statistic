@@ -20,7 +20,7 @@
         data: []
     };
 
-    var obj = {}
+    var obj = {};
 
 
     function renderChart () {
@@ -29,7 +29,7 @@
                 type: 'line'
             },
             title: {
-                text: 'Статистика предложений на сайте Mobile.De 05.05.2017 (Сортировка по цене ТС, ДИЗЕЛЬ, 500-3000куб. см, цена 0-8000 евро, 1985-2016)'
+                text: 'Статистика предложений на сайте Mobile.De 05.05.2017 (Сортировка по цене ТС, БЕНЗИН, 500-3000куб. см, цена 0-8000 евро, 1985-2016)'
             },
             subtitle: {
                 text: 'Подготовленно информационно-аналитической группой #ВільніЛюдиМаютьАвто на основе данныx Mobile.De'
@@ -77,7 +77,7 @@
 
     function getDataFromFile(year){
         if(year<=2016){
-            $.getJSON("https://fphauto.github.io/static_mobile.de_21.12.2016/db/all_dizel_1985-2016_1000-8000EURO/mobileDe_statistic"+year+".json", function(receivedData){
+            $.getJSON(rootURL+"db/2017-05-08_1985-2016_0-8000EUR/all_petrol_1985-2016_1000-8000EURO/mobileDe_statistic"+year+".json", function(receivedData){
                 var total = receivedData[0].total;
 
                 remapJSON(receivedData[0], year)
