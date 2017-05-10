@@ -1,1 +1,2 @@
-# static_mobile.de_21.12.2016
+# This is statistic from mobile.de
+

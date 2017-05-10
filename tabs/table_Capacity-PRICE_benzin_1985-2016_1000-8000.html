@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+<table cellspacing="2" border="1" cellpadding="5" width="600">
+    <tr>
+        <th></th>
+        <th>1000</th>
+        <th>2000</th>
+        <th>3000</th>
+        <th>4000</th>
+        <th>5000</th>
+        <th>6000</th>
+        <th>7000</th>
+        <th>8000</th>
+        <th>Всего</th>
+    </tr> 
+</table>
+<script>
+    var capacityCategories = [];
+    var totalCount = 0;
+    var series = {
+        name: "Обшее количество автомобилей " + totalCount,
+        data: []
+    };
+
+    var obj = {total:0};
+    var rangeCount = 0;
+
+    /* var data ={
+        _1990:{
+            1000:{
+                item: 1
+            },
+            total: 1
+        },
+        1991_2000:{
+            1000:{
+                item: 1
+            },
+            total: 1
+        },
+        2001_2010:{
+            1000:{
+                item: 1
+            },
+            total: 1
+        },
+        2010_:{
+            1000:{
+                item: 1
+            },
+            total: 1
+        }
+
+    }
+
+*/
+    function renderTable () {
+        var table = $("table");
+        _.each(obj, function (item, rowName) {
+            if(rowName ==="total") return;
+            var row = $("<tr><td>"+rowName+"</td></tr>");
+
+            _.each(item, function(value, key) {
+                if(key === "rangeCount") return;
+                row.append($("<td>"+value+"</td>"))
+            })
+            row.append("<td>"+item.rangeCount+"</td>")
+            table.append(row)
+        });
+        
+
+    }
+
+    $(function(){
+        getDataFromFile(1985);
+    });
+
+    function prepareData(){
+        // capacityCategories = _.keys(obj);
+        // series.data = _.values(obj);
+        // totalCount = 0;
+
+        // _.each(obj, function(value){
+        //     totalCount = totalCount + value;
+        // });
+
+        setTitle();
+        renderTable();
+    }
+
+    function setTitle(){
+        series.name = "Обшее количество автомобилей " + totalCount
+    }
+
+    function getDataFromFile(year){
+        if(year<=2016){
+            $.getJSON("https://fphauto.github.io/static_mobile.de_21.12.2016/db/all_benzin_1985-2016_1000-8000EURO/mobileDe_statistic"+year+".json", function(receivedData){
+                var total = receivedData[0].total;
+
+                remapJSON(receivedData[0], year)
+            });
+        }else{
+            console.log(obj)
+        }
+    }
+
+
+    function remapJSON(json, year){
+
+        _.each(json, function(item, capacity){
+            if(capacity === "total") return;
+            var rangeCapacity = prepaeCapacityRange(parseInt(capacity));
+
+            _.each(item, function(value, key){
+                if(key === "capacityCount")  return;
+
+                if(parseInt(key)<=1000 ){
+                    prepareRange ( rangeCapacity, "1000EUR", value.item)
+                }
+                else if(parseInt(key)>1000 && parseInt(key)<=2000) {
+                    prepareRange ( rangeCapacity, "2000EUR", value.item)
+                }
+                else if(parseInt(key)>2000 && parseInt(key)<=3000) {
+                    prepareRange ( rangeCapacity, "3000EUR", value.item)
+                }
+                else if(parseInt(key)>3000 && parseInt(key)<=4000) {
+                    prepareRange ( rangeCapacity, "4000EUR", value.item)
+                }
+                else if(parseInt(key)>4000 && parseInt(key)<=5000) {
+                    prepareRange ( rangeCapacity, "5000EUR", value.item)
+                }
+                else if(parseInt(key)>5000 && parseInt(key)<=6000) {
+                    prepareRange ( rangeCapacity, "6000EUR", value.item)
+                }
+                else if(parseInt(key)>6000 && parseInt(key)<=7000) {
+                    prepareRange ( rangeCapacity, "7000EUR", value.item)
+                }
+                else if(parseInt(key)>7000 && parseInt(key)<=8000) {
+                    prepareRange ( rangeCapacity, "8000EUR", value.item)
+                }
+
+                obj[rangeCapacity].rangeCount = obj[rangeCapacity].rangeCount + value.item;
+                obj.total = obj.total + value.item
+            });
+        });
+
+        function prepareRange ( capacity, price, item ){
+            if(_.isUndefined(obj[capacity][price])) {
+                obj[capacity][price]=item
+            }else{
+                obj[capacity][price]= obj[capacity][price] + item
+            }
+        }
+
+        function prepaeCapacityRange (capacity){
+            var rangeCapacity = null;
+            if(capacity < 1000){
+                rangeCapacity = "_1000"
+            }
+            else if( capacity >= 1000 && capacity < 1500 ){
+                rangeCapacity = "1000_1499"
+            }
+            else if( capacity >= 1500 && capacity < 2200 ){
+                rangeCapacity = "1500_2199"
+            }
+            else if( capacity >= 2200 && capacity <= 3000 ){
+                rangeCapacity = "2200_2999"
+            }
+            if(!obj[rangeCapacity]) { 
+                obj[rangeCapacity] = {};
+                obj[rangeCapacity].rangeCount = 0;
+            }
+
+            if(obj.null) {
+            	obj.null.name=[]; 
+            	obj.null.name.push(capacity)
+			}
+            return rangeCapacity
+        }
+
+        if(year<=2016){
+            getDataFromFile(year+1)
+        }
+
+        if(year === 2016){
+            prepareData();
+        }
+    }
+
+</script>
+</body>
+</html>
