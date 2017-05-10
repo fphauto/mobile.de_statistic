@@ -11,3 +11,9 @@
 <a href="https://fphauto.github.io/mobile.de_statistic/charts/2017-05-08_1985-2016_0-8000EUR/chart_PRICE_RANGE_diesel_1985-2016_1000-8000.html"> chart_PRICE_RANGE_diesel_1985-2016_1000-8000 </a><br />
 <a href="https://fphauto.github.io/mobile.de_statistic/charts/2017-05-08_1985-2016_0-8000EUR/chart_YEAR_petrol_1985-2016_1000-8000.html"> chart_YEAR_petrol_1985-2016_1000-8000 </a><br />
 <a href="https://fphauto.github.io/mobile.de_statistic/charts/2017-05-08_1985-2016_0-8000EUR/chart_YEAR_diesel_1985-2016_1000-8000.html"> chart_YEAR_diesel_1985-2016_1000-8000 </a><br />
+
+### Tables
+<a href="https://fphauto.github.io/mobile.de_statistic/tables/2017-05-08_1985-2016_0-8000EUR/table_Capacity-PRICE_diesel_1985-2016_1000-8000.html"> table_Capacity-PRICE_diesel_1985-2016_1000-8000 </a> <br />
+<a href="https://fphauto.github.io/mobile.de_statistic/tables/2017-05-08_1985-2016_0-8000EUR/table_Capacity-PRICE_petrol_1985-2016_1000-8000.html"> table_Capacity-PRICE_petrol_1985-2016_1000-8000 </a><br />
+<a href="https://fphauto.github.io/mobile.de_statistic/tables/2017-05-08_1985-2016_0-8000EUR/table_YEAR-PRICE_diesel_1985-2016_1000-8000.html"> table_YEAR-PRICE_diesel_1985-2016_1000-8000 </a><br />
+<a href="https://fphauto.github.io/mobile.de_statistic/tables/2017-05-08_1985-2016_0-8000EUR/table_YEAR-PRICE_petrol_1985-2016_1000-8000.html"> table_YEAR-PRICE_petrol_1985-2016_1000-8000 </a><br />
