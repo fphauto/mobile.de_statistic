@@ -33,7 +33,6 @@
         }
     };
 
-    var capacityCategories = [];
     var totalCount = 0;
     var series = {
         name: "Обшее количество автомобилей " + totalCount,
@@ -44,7 +43,7 @@
 
     var chartParams = {
         titleText: 'Статистика предложений на сайте Mobile.De '+searchParams.date+' (Сортировка по объему ДВС, ДИЗЕЛЬ, '+ searchParams.rangeCapacity.start+'-'+searchParams.rangeCapacity.end+'куб. см, цена 0-8000 евро, 1985-2016)',
-        categories: capacityCategories
+        categories: []
     }
 
 
@@ -84,7 +83,7 @@
     });
 
     function prepareData(){
-        capacityCategories = _.keys(obj);
+        chartParams.categories = _.keys(obj);
         series.data = _.values(obj);
         totalCount = 0;
 
