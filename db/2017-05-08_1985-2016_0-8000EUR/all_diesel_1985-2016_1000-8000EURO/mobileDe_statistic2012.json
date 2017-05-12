@@ -2,46 +2,6 @@
   {
     "600ccm": {
       "capacityCount": 0,
-      "0EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 0
-      },
       "1000EUR": {
         "item": 0,
         "total": 0
@@ -328,47 +288,7 @@
       }
     },
     "700ccm": {
-      "capacityCount": 88,
-      "0EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 0
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 0
-      },
+      "capacityCount": 0,
       "1000EUR": {
         "item": 0,
         "total": 0
@@ -526,2236 +446,2243 @@
         "total": 0
       },
       "4900EUR": {
-        "item": 1,
-        "total": 1
+        "item": 0,
+        "total": 0
       },
       "5000EUR": {
-        "item": 1,
-        "total": 2
+        "item": 0,
+        "total": 0
       },
       "5100EUR": {
         "item": 0,
-        "total": 2
+        "total": 0
       },
       "5200EUR": {
         "item": 0,
-        "total": 2
+        "total": 0
       },
       "5300EUR": {
-        "item": 1,
-        "total": 3
+        "item": 0,
+        "total": 0
       },
       "5400EUR": {
-        "item": 2,
-        "total": 5
+        "item": 0,
+        "total": 0
       },
       "5500EUR": {
         "item": 0,
-        "total": 5
+        "total": 0
       },
       "5600EUR": {
         "item": 0,
-        "total": 5
+        "total": 0
       },
       "5700EUR": {
-        "item": 1,
-        "total": 6
+        "item": 0,
+        "total": 0
       },
       "5800EUR": {
         "item": 0,
-        "total": 6
+        "total": 0
       },
       "5900EUR": {
-        "item": 4,
-        "total": 10
+        "item": 0,
+        "total": 0
       },
       "6000EUR": {
-        "item": 1,
-        "total": 11
+        "item": 0,
+        "total": 0
       },
       "6100EUR": {
         "item": 0,
-        "total": 11
+        "total": 0
       },
       "6200EUR": {
-        "item": 1,
-        "total": 12
+        "item": 0,
+        "total": 0
       },
       "6300EUR": {
-        "item": 2,
-        "total": 14
+        "item": 0,
+        "total": 0
       },
       "6400EUR": {
-        "item": 6,
-        "total": 20
+        "item": 0,
+        "total": 0
       },
       "6500EUR": {
-        "item": 3,
-        "total": 23
+        "item": 0,
+        "total": 0
       },
       "6600EUR": {
         "item": 0,
-        "total": 23
+        "total": 0
       },
       "6700EUR": {
-        "item": 5,
-        "total": 28
+        "item": 0,
+        "total": 0
       },
       "6800EUR": {
-        "item": 5,
-        "total": 33
+        "item": 0,
+        "total": 0
       },
       "6900EUR": {
-        "item": 17,
-        "total": 50
+        "item": 0,
+        "total": 0
       },
       "7000EUR": {
-        "item": 1,
-        "total": 51
+        "item": 0,
+        "total": 0
       },
       "7100EUR": {
-        "item": 1,
-        "total": 52
+        "item": 0,
+        "total": 0
       },
       "7200EUR": {
-        "item": 2,
-        "total": 54
+        "item": 0,
+        "total": 0
       },
       "7300EUR": {
-        "item": 4,
-        "total": 58
+        "item": 0,
+        "total": 0
       },
       "7400EUR": {
-        "item": 9,
-        "total": 67
+        "item": 0,
+        "total": 0
       },
       "7500EUR": {
-        "item": 1,
-        "total": 68
+        "item": 0,
+        "total": 0
       },
       "7600EUR": {
-        "item": 4,
-        "total": 72
+        "item": 0,
+        "total": 0
       },
       "7700EUR": {
-        "item": 2,
-        "total": 74
+        "item": 0,
+        "total": 0
       },
       "7800EUR": {
-        "item": 7,
-        "total": 81
+        "item": 0,
+        "total": 0
       },
       "7900EUR": {
-        "item": 5,
-        "total": 86
+        "item": 0,
+        "total": 0
       },
       "8000EUR": {
-        "item": 2,
-        "total": 88
+        "item": 0,
+        "total": 0
       }
     },
     "800ccm": {
-      "capacityCount": 1,
-      "0EUR": {
-        "item": 0,
-        "total": 88
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 88
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 88
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 88
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 88
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 88
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 88
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 88
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 88
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 88
-      },
+      "capacityCount": 87,
       "1000EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "1100EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "1200EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "1300EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "1400EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "1500EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "1600EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "1700EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "1800EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "1900EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "2000EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "2100EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "2200EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "2300EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "2400EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "2500EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "2600EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "2700EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "2800EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "2900EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "3000EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "3100EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "3200EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "3300EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "3400EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "3500EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "3600EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "3700EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "3800EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "3900EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "4000EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "4100EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "4200EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "4300EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "4400EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "4500EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "4600EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "4700EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "4800EUR": {
         "item": 0,
-        "total": 88
+        "total": 0
       },
       "4900EUR": {
-        "item": 0,
-        "total": 88
+        "item": 2,
+        "total": 2
       },
       "5000EUR": {
-        "item": 0,
-        "total": 88
+        "item": 1,
+        "total": 3
       },
       "5100EUR": {
         "item": 0,
-        "total": 88
+        "total": 3
       },
       "5200EUR": {
         "item": 0,
-        "total": 88
+        "total": 3
       },
       "5300EUR": {
-        "item": 0,
-        "total": 88
+        "item": 1,
+        "total": 4
       },
       "5400EUR": {
-        "item": 0,
-        "total": 88
+        "item": 3,
+        "total": 7
       },
       "5500EUR": {
         "item": 0,
-        "total": 88
+        "total": 7
       },
       "5600EUR": {
         "item": 0,
-        "total": 88
+        "total": 7
       },
       "5700EUR": {
-        "item": 0,
-        "total": 88
+        "item": 1,
+        "total": 8
       },
       "5800EUR": {
-        "item": 0,
-        "total": 88
+        "item": 1,
+        "total": 9
       },
       "5900EUR": {
-        "item": 0,
-        "total": 88
+        "item": 5,
+        "total": 14
       },
       "6000EUR": {
-        "item": 0,
-        "total": 88
+        "item": 1,
+        "total": 15
       },
       "6100EUR": {
         "item": 0,
-        "total": 88
+        "total": 15
       },
       "6200EUR": {
-        "item": 0,
-        "total": 88
+        "item": 2,
+        "total": 17
       },
       "6300EUR": {
-        "item": 0,
-        "total": 88
+        "item": 2,
+        "total": 19
       },
       "6400EUR": {
-        "item": 0,
-        "total": 88
+        "item": 4,
+        "total": 23
       },
       "6500EUR": {
-        "item": 0,
-        "total": 88
+        "item": 3,
+        "total": 26
       },
       "6600EUR": {
-        "item": 0,
-        "total": 88
+        "item": 1,
+        "total": 27
       },
       "6700EUR": {
-        "item": 0,
-        "total": 88
+        "item": 6,
+        "total": 33
       },
       "6800EUR": {
-        "item": 0,
-        "total": 88
+        "item": 4,
+        "total": 37
       },
       "6900EUR": {
-        "item": 0,
-        "total": 88
+        "item": 18,
+        "total": 55
       },
       "7000EUR": {
-        "item": 0,
-        "total": 88
+        "item": 1,
+        "total": 56
       },
       "7100EUR": {
         "item": 0,
-        "total": 88
+        "total": 56
       },
       "7200EUR": {
-        "item": 0,
-        "total": 88
+        "item": 1,
+        "total": 57
       },
       "7300EUR": {
-        "item": 0,
-        "total": 88
+        "item": 4,
+        "total": 61
       },
       "7400EUR": {
-        "item": 0,
-        "total": 88
+        "item": 8,
+        "total": 69
       },
       "7500EUR": {
-        "item": 1,
-        "total": 89
+        "item": 2,
+        "total": 71
       },
       "7600EUR": {
-        "item": 0,
-        "total": 89
+        "item": 2,
+        "total": 73
       },
       "7700EUR": {
-        "item": 0,
-        "total": 89
+        "item": 2,
+        "total": 75
       },
       "7800EUR": {
-        "item": 0,
-        "total": 89
+        "item": 7,
+        "total": 82
       },
       "7900EUR": {
-        "item": 0,
-        "total": 89
+        "item": 3,
+        "total": 85
       },
       "8000EUR": {
-        "item": 0,
-        "total": 89
+        "item": 2,
+        "total": 87
       }
     },
     "900ccm": {
-      "capacityCount": 1,
-      "0EUR": {
-        "item": 0,
-        "total": 89
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 89
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 89
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 89
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 89
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 89
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 89
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 89
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 89
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 89
-      },
+      "capacityCount": 0,
       "1000EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "1100EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "1200EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "1300EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "1400EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "1500EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "1600EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "1700EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "1800EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "1900EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "2000EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "2100EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "2200EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "2300EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "2400EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "2500EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "2600EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "2700EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "2800EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "2900EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "3000EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "3100EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "3200EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "3300EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "3400EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "3500EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "3600EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "3700EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "3800EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "3900EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "4000EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "4100EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "4200EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "4300EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "4400EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "4500EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "4600EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "4700EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "4800EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "4900EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "5000EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "5100EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "5200EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "5300EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "5400EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "5500EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "5600EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "5700EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "5800EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "5900EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "6000EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "6100EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "6200EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "6300EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "6400EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "6500EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "6600EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "6700EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "6800EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "6900EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "7000EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "7100EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "7200EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "7300EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "7400EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "7500EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "7600EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "7700EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "7800EUR": {
         "item": 0,
-        "total": 89
+        "total": 87
       },
       "7900EUR": {
-        "item": 1,
-        "total": 90
+        "item": 0,
+        "total": 87
       },
       "8000EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       }
     },
     "1000ccm": {
-      "capacityCount": 0,
-      "0EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 90
-      },
+      "capacityCount": 2,
       "1000EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "1100EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "1200EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "1300EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "1400EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "1500EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "1600EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "1700EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "1800EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "1900EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "2000EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "2100EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "2200EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "2300EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "2400EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "2500EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "2600EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "2700EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "2800EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "2900EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "3000EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "3100EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "3200EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "3300EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "3400EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "3500EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "3600EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "3700EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "3800EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "3900EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "4000EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "4100EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "4200EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "4300EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "4400EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "4500EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "4600EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "4700EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "4800EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "4900EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "5000EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "5100EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "5200EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "5300EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "5400EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "5500EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "5600EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "5700EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "5800EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "5900EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "6000EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "6100EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "6200EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "6300EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "6400EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "6500EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "6600EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "6700EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "6800EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "6900EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "7000EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "7100EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "7200EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "7300EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "7400EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "7500EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "7600EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "7700EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "7800EUR": {
         "item": 0,
-        "total": 90
+        "total": 87
       },
       "7900EUR": {
-        "item": 0,
-        "total": 90
+        "item": 2,
+        "total": 89
       },
       "8000EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       }
     },
     "1100ccm": {
-      "capacityCount": 223,
-      "0EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 90
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 90
-      },
+      "capacityCount": 16,
       "1000EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "1100EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "1200EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "1300EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "1400EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "1500EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "1600EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "1700EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "1800EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "1900EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "2000EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "2100EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "2200EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "2300EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "2400EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "2500EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "2600EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "2700EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "2800EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "2900EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "3000EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "3100EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "3200EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "3300EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "3400EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "3500EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "3600EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "3700EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "3800EUR": {
         "item": 0,
-        "total": 90
+        "total": 89
       },
       "3900EUR": {
-        "item": 2,
-        "total": 92
+        "item": 0,
+        "total": 89
       },
       "4000EUR": {
         "item": 0,
-        "total": 92
+        "total": 89
       },
       "4100EUR": {
         "item": 0,
-        "total": 92
+        "total": 89
       },
       "4200EUR": {
         "item": 0,
-        "total": 92
+        "total": 89
       },
       "4300EUR": {
         "item": 0,
-        "total": 92
+        "total": 89
       },
       "4400EUR": {
-        "item": 1,
-        "total": 93
+        "item": 0,
+        "total": 89
       },
       "4500EUR": {
-        "item": 1,
-        "total": 94
+        "item": 0,
+        "total": 89
       },
       "4600EUR": {
-        "item": 1,
-        "total": 95
+        "item": 0,
+        "total": 89
       },
       "4700EUR": {
-        "item": 1,
-        "total": 96
+        "item": 0,
+        "total": 89
       },
       "4800EUR": {
-        "item": 2,
-        "total": 98
+        "item": 0,
+        "total": 89
       },
       "4900EUR": {
-        "item": 9,
-        "total": 107
+        "item": 0,
+        "total": 89
       },
       "5000EUR": {
-        "item": 1,
-        "total": 108
+        "item": 0,
+        "total": 89
       },
       "5100EUR": {
         "item": 0,
-        "total": 108
+        "total": 89
       },
       "5200EUR": {
-        "item": 4,
-        "total": 112
+        "item": 0,
+        "total": 89
       },
       "5300EUR": {
         "item": 0,
-        "total": 112
+        "total": 89
       },
       "5400EUR": {
-        "item": 4,
-        "total": 116
+        "item": 0,
+        "total": 89
       },
       "5500EUR": {
-        "item": 1,
-        "total": 117
+        "item": 0,
+        "total": 89
       },
       "5600EUR": {
-        "item": 4,
-        "total": 121
+        "item": 1,
+        "total": 90
       },
       "5700EUR": {
-        "item": 4,
-        "total": 125
+        "item": 0,
+        "total": 90
       },
       "5800EUR": {
-        "item": 3,
-        "total": 128
+        "item": 1,
+        "total": 91
       },
       "5900EUR": {
-        "item": 16,
-        "total": 144
+        "item": 3,
+        "total": 94
       },
       "6000EUR": {
-        "item": 3,
-        "total": 147
+        "item": 0,
+        "total": 94
       },
       "6100EUR": {
-        "item": 2,
-        "total": 149
+        "item": 0,
+        "total": 94
       },
       "6200EUR": {
-        "item": 2,
-        "total": 151
+        "item": 0,
+        "total": 94
       },
       "6300EUR": {
         "item": 0,
-        "total": 151
+        "total": 94
       },
       "6400EUR": {
-        "item": 6,
-        "total": 157
+        "item": 0,
+        "total": 94
       },
       "6500EUR": {
-        "item": 5,
-        "total": 162
+        "item": 0,
+        "total": 94
       },
       "6600EUR": {
-        "item": 4,
-        "total": 166
+        "item": 2,
+        "total": 96
       },
       "6700EUR": {
-        "item": 9,
-        "total": 175
+        "item": 0,
+        "total": 96
       },
       "6800EUR": {
-        "item": 4,
-        "total": 179
+        "item": 0,
+        "total": 96
       },
       "6900EUR": {
-        "item": 23,
-        "total": 202
+        "item": 1,
+        "total": 97
       },
       "7000EUR": {
-        "item": 4,
-        "total": 206
+        "item": 3,
+        "total": 100
       },
       "7100EUR": {
-        "item": 4,
-        "total": 210
+        "item": 0,
+        "total": 100
       },
       "7200EUR": {
-        "item": 11,
-        "total": 221
+        "item": 0,
+        "total": 100
       },
       "7300EUR": {
-        "item": 2,
-        "total": 223
+        "item": 0,
+        "total": 100
       },
       "7400EUR": {
-        "item": 12,
-        "total": 235
+        "item": 0,
+        "total": 100
       },
       "7500EUR": {
-        "item": 5,
-        "total": 240
+        "item": 0,
+        "total": 100
       },
       "7600EUR": {
-        "item": 8,
-        "total": 248
+        "item": 0,
+        "total": 100
       },
       "7700EUR": {
-        "item": 15,
-        "total": 263
+        "item": 1,
+        "total": 101
       },
       "7800EUR": {
-        "item": 5,
-        "total": 268
+        "item": 0,
+        "total": 101
       },
       "7900EUR": {
-        "item": 44,
-        "total": 312
+        "item": 4,
+        "total": 105
       },
       "8000EUR": {
-        "item": 1,
-        "total": 313
+        "item": 0,
+        "total": 105
       }
     },
     "1200ccm": {
-      "capacityCount": 452,
-      "0EUR": {
-        "item": 0,
-        "total": 313
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 313
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 313
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 313
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 313
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 313
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 313
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 313
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 313
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 313
-      },
+      "capacityCount": 652,
       "1000EUR": {
         "item": 0,
-        "total": 313
+        "total": 105
       },
       "1100EUR": {
         "item": 0,
-        "total": 313
+        "total": 105
       },
       "1200EUR": {
         "item": 0,
-        "total": 313
+        "total": 105
       },
       "1300EUR": {
         "item": 0,
-        "total": 313
+        "total": 105
       },
       "1400EUR": {
         "item": 0,
-        "total": 313
+        "total": 105
       },
       "1500EUR": {
         "item": 0,
-        "total": 313
+        "total": 105
       },
       "1600EUR": {
         "item": 0,
-        "total": 313
+        "total": 105
       },
       "1700EUR": {
         "item": 0,
-        "total": 313
+        "total": 105
       },
       "1800EUR": {
         "item": 0,
-        "total": 313
+        "total": 105
       },
       "1900EUR": {
         "item": 0,
-        "total": 313
+        "total": 105
       },
       "2000EUR": {
         "item": 0,
-        "total": 313
+        "total": 105
       },
       "2100EUR": {
         "item": 0,
-        "total": 313
+        "total": 105
       },
       "2200EUR": {
         "item": 0,
-        "total": 313
+        "total": 105
       },
       "2300EUR": {
         "item": 0,
-        "total": 313
+        "total": 105
       },
       "2400EUR": {
         "item": 0,
-        "total": 313
+        "total": 105
       },
       "2500EUR": {
         "item": 1,
-        "total": 314
+        "total": 106
       },
       "2600EUR": {
         "item": 0,
-        "total": 314
+        "total": 106
       },
       "2700EUR": {
         "item": 0,
-        "total": 314
+        "total": 106
       },
       "2800EUR": {
         "item": 0,
-        "total": 314
+        "total": 106
       },
       "2900EUR": {
         "item": 2,
-        "total": 316
+        "total": 108
       },
       "3000EUR": {
         "item": 0,
-        "total": 316
+        "total": 108
       },
       "3100EUR": {
         "item": 0,
-        "total": 316
+        "total": 108
       },
       "3200EUR": {
         "item": 1,
-        "total": 317
+        "total": 109
       },
       "3300EUR": {
-        "item": 1,
-        "total": 318
+        "item": 0,
+        "total": 109
       },
       "3400EUR": {
         "item": 0,
-        "total": 318
+        "total": 109
       },
       "3500EUR": {
         "item": 1,
-        "total": 319
+        "total": 110
       },
       "3600EUR": {
-        "item": 0,
-        "total": 319
+        "item": 1,
+        "total": 111
       },
       "3700EUR": {
         "item": 1,
-        "total": 320
+        "total": 112
       },
       "3800EUR": {
         "item": 3,
-        "total": 323
+        "total": 115
       },
       "3900EUR": {
-        "item": 3,
-        "total": 326
+        "item": 5,
+        "total": 120
       },
       "4000EUR": {
-        "item": 2,
-        "total": 328
+        "item": 3,
+        "total": 123
       },
       "4100EUR": {
         "item": 0,
-        "total": 328
+        "total": 123
       },
       "4200EUR": {
-        "item": 2,
-        "total": 330
+        "item": 1,
+        "total": 124
       },
       "4300EUR": {
-        "item": 5,
-        "total": 335
+        "item": 4,
+        "total": 128
       },
       "4400EUR": {
-        "item": 1,
-        "total": 336
+        "item": 2,
+        "total": 130
       },
       "4500EUR": {
         "item": 8,
-        "total": 344
+        "total": 138
       },
       "4600EUR": {
-        "item": 3,
-        "total": 347
+        "item": 5,
+        "total": 143
       },
       "4700EUR": {
-        "item": 6,
-        "total": 353
+        "item": 7,
+        "total": 150
       },
       "4800EUR": {
-        "item": 4,
-        "total": 357
+        "item": 3,
+        "total": 153
       },
       "4900EUR": {
-        "item": 19,
-        "total": 376
+        "item": 24,
+        "total": 177
       },
       "5000EUR": {
-        "item": 0,
-        "total": 376
+        "item": 1,
+        "total": 178
       },
       "5100EUR": {
         "item": 0,
-        "total": 376
+        "total": 178
       },
       "5200EUR": {
-        "item": 6,
-        "total": 382
+        "item": 10,
+        "total": 188
       },
       "5300EUR": {
-        "item": 6,
-        "total": 388
+        "item": 8,
+        "total": 196
       },
       "5400EUR": {
-        "item": 6,
-        "total": 394
+        "item": 10,
+        "total": 206
       },
       "5500EUR": {
-        "item": 8,
-        "total": 402
+        "item": 12,
+        "total": 218
       },
       "5600EUR": {
-        "item": 4,
-        "total": 406
+        "item": 8,
+        "total": 226
       },
       "5700EUR": {
-        "item": 13,
-        "total": 419
+        "item": 12,
+        "total": 238
       },
       "5800EUR": {
-        "item": 3,
-        "total": 422
+        "item": 9,
+        "total": 247
       },
       "5900EUR": {
-        "item": 32,
-        "total": 454
+        "item": 42,
+        "total": 289
       },
       "6000EUR": {
-        "item": 8,
-        "total": 462
+        "item": 10,
+        "total": 299
       },
       "6100EUR": {
-        "item": 1,
-        "total": 463
+        "item": 5,
+        "total": 304
       },
       "6200EUR": {
-        "item": 7,
-        "total": 470
+        "item": 8,
+        "total": 312
       },
       "6300EUR": {
-        "item": 8,
-        "total": 478
+        "item": 7,
+        "total": 319
       },
       "6400EUR": {
-        "item": 25,
-        "total": 503
+        "item": 33,
+        "total": 352
       },
       "6500EUR": {
-        "item": 21,
-        "total": 524
+        "item": 20,
+        "total": 372
       },
       "6600EUR": {
-        "item": 13,
-        "total": 537
+        "item": 14,
+        "total": 386
       },
       "6700EUR": {
-        "item": 6,
-        "total": 543
+        "item": 15,
+        "total": 401
       },
       "6800EUR": {
-        "item": 9,
-        "total": 552
+        "item": 16,
+        "total": 417
       },
       "6900EUR": {
-        "item": 51,
-        "total": 603
+        "item": 69,
+        "total": 486
       },
       "7000EUR": {
-        "item": 10,
-        "total": 613
+        "item": 12,
+        "total": 498
       },
       "7100EUR": {
-        "item": 9,
-        "total": 622
+        "item": 14,
+        "total": 512
       },
       "7200EUR": {
-        "item": 10,
-        "total": 632
+        "item": 18,
+        "total": 530
       },
       "7300EUR": {
-        "item": 5,
-        "total": 637
+        "item": 10,
+        "total": 540
       },
       "7400EUR": {
-        "item": 26,
-        "total": 663
+        "item": 35,
+        "total": 575
       },
       "7500EUR": {
-        "item": 18,
-        "total": 681
+        "item": 26,
+        "total": 601
       },
       "7600EUR": {
-        "item": 8,
-        "total": 689
+        "item": 14,
+        "total": 615
       },
       "7700EUR": {
-        "item": 5,
-        "total": 694
+        "item": 19,
+        "total": 634
       },
       "7800EUR": {
-        "item": 20,
-        "total": 714
+        "item": 26,
+        "total": 660
       },
       "7900EUR": {
-        "item": 48,
-        "total": 762
+        "item": 93,
+        "total": 753
       },
       "8000EUR": {
-        "item": 3,
-        "total": 765
+        "item": 4,
+        "total": 757
       }
     },
     "1300ccm": {
-      "capacityCount": 242,
-      "0EUR": {
-        "item": 0,
-        "total": 765
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 765
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 765
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 765
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 765
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 765
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 765
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 765
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 765
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 765
-      },
+      "capacityCount": 10,
       "1000EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "1100EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "1200EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "1300EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "1400EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "1500EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "1600EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "1700EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "1800EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "1900EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "2000EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "2100EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "2200EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "2300EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "2400EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "2500EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "2600EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "2700EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "2800EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "2900EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "3000EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "3100EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "3200EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "3300EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "3400EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "3500EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "3600EUR": {
         "item": 0,
-        "total": 765
+        "total": 757
       },
       "3700EUR": {
-        "item": 3,
-        "total": 768
+        "item": 0,
+        "total": 757
       },
       "3800EUR": {
-        "item": 2,
-        "total": 770
+        "item": 0,
+        "total": 757
       },
       "3900EUR": {
-        "item": 4,
-        "total": 774
+        "item": 0,
+        "total": 757
       },
       "4000EUR": {
         "item": 0,
-        "total": 774
+        "total": 757
       },
       "4100EUR": {
-        "item": 1,
-        "total": 775
+        "item": 0,
+        "total": 757
       },
       "4200EUR": {
-        "item": 3,
-        "total": 778
+        "item": 0,
+        "total": 757
       },
       "4300EUR": {
-        "item": 1,
-        "total": 779
+        "item": 0,
+        "total": 757
       },
       "4400EUR": {
-        "item": 4,
-        "total": 783
+        "item": 0,
+        "total": 757
       },
       "4500EUR": {
         "item": 0,
-        "total": 783
+        "total": 757
       },
       "4600EUR": {
-        "item": 2,
-        "total": 785
+        "item": 0,
+        "total": 757
       },
       "4700EUR": {
-        "item": 5,
-        "total": 790
+        "item": 0,
+        "total": 757
       },
       "4800EUR": {
-        "item": 4,
-        "total": 794
+        "item": 0,
+        "total": 757
       },
       "4900EUR": {
-        "item": 5,
-        "total": 799
+        "item": 1,
+        "total": 758
       },
       "5000EUR": {
-        "item": 1,
-        "total": 800
+        "item": 0,
+        "total": 758
       },
       "5100EUR": {
-        "item": 3,
-        "total": 803
+        "item": 0,
+        "total": 758
       },
       "5200EUR": {
-        "item": 3,
-        "total": 806
+        "item": 0,
+        "total": 758
       },
       "5300EUR": {
-        "item": 3,
-        "total": 809
+        "item": 0,
+        "total": 758
       },
       "5400EUR": {
-        "item": 5,
-        "total": 814
+        "item": 0,
+        "total": 758
       },
       "5500EUR": {
-        "item": 6,
-        "total": 820
+        "item": 1,
+        "total": 759
       },
       "5600EUR": {
         "item": 0,
-        "total": 820
+        "total": 759
       },
       "5700EUR": {
-        "item": 4,
-        "total": 824
+        "item": 0,
+        "total": 759
       },
       "5800EUR": {
-        "item": 3,
-        "total": 827
+        "item": 0,
+        "total": 759
       },
       "5900EUR": {
-        "item": 19,
-        "total": 846
+        "item": 1,
+        "total": 760
       },
       "6000EUR": {
-        "item": 3,
-        "total": 849
+        "item": 0,
+        "total": 760
       },
       "6100EUR": {
-        "item": 2,
-        "total": 851
+        "item": 0,
+        "total": 760
       },
       "6200EUR": {
-        "item": 2,
-        "total": 853
+        "item": 0,
+        "total": 760
       },
       "6300EUR": {
-        "item": 6,
-        "total": 859
+        "item": 0,
+        "total": 760
       },
       "6400EUR": {
-        "item": 13,
-        "total": 872
+        "item": 0,
+        "total": 760
       },
       "6500EUR": {
-        "item": 4,
-        "total": 876
+        "item": 0,
+        "total": 760
       },
       "6600EUR": {
-        "item": 1,
-        "total": 877
+        "item": 0,
+        "total": 760
       },
       "6700EUR": {
-        "item": 1,
-        "total": 878
+        "item": 0,
+        "total": 760
       },
       "6800EUR": {
-        "item": 6,
-        "total": 884
+        "item": 0,
+        "total": 760
       },
       "6900EUR": {
-        "item": 27,
-        "total": 911
+        "item": 3,
+        "total": 763
       },
       "7000EUR": {
-        "item": 1,
-        "total": 912
+        "item": 0,
+        "total": 763
       },
       "7100EUR": {
-        "item": 0,
-        "total": 912
+        "item": 1,
+        "total": 764
       },
       "7200EUR": {
-        "item": 11,
-        "total": 923
+        "item": 0,
+        "total": 764
       },
       "7300EUR": {
-        "item": 5,
-        "total": 928
+        "item": 0,
+        "total": 764
       },
       "7400EUR": {
-        "item": 13,
-        "total": 941
+        "item": 0,
+        "total": 764
       },
       "7500EUR": {
-        "item": 13,
-        "total": 954
+        "item": 1,
+        "total": 765
       },
       "7600EUR": {
-        "item": 6,
-        "total": 960
+        "item": 0,
+        "total": 765
       },
       "7700EUR": {
-        "item": 6,
-        "total": 966
+        "item": 0,
+        "total": 765
       },
       "7800EUR": {
-        "item": 7,
-        "total": 973
+        "item": 0,
+        "total": 765
       },
       "7900EUR": {
-        "item": 34,
-        "total": 1007
+        "item": 2,
+        "total": 767
       },
       "8000EUR": {
         "item": 0,
-        "total": 1007
+        "total": 767
       }
     },
     "1400ccm": {
-      "capacityCount": 621,
-      "0EUR": {
-        "item": 0,
-        "total": 1007
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 1007
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 1007
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 1007
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 1007
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 1007
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 1007
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 1007
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 1007
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 1007
-      },
+      "capacityCount": 239,
       "1000EUR": {
         "item": 0,
-        "total": 1007
+        "total": 767
       },
       "1100EUR": {
         "item": 0,
-        "total": 1007
+        "total": 767
       },
       "1200EUR": {
         "item": 0,
-        "total": 1007
+        "total": 767
       },
       "1300EUR": {
         "item": 0,
-        "total": 1007
+        "total": 767
       },
       "1400EUR": {
         "item": 0,
-        "total": 1007
+        "total": 767
       },
       "1500EUR": {
         "item": 0,
-        "total": 1007
+        "total": 767
       },
       "1600EUR": {
         "item": 0,
-        "total": 1007
+        "total": 767
       },
       "1700EUR": {
         "item": 0,
-        "total": 1007
+        "total": 767
       },
       "1800EUR": {
         "item": 0,
-        "total": 1007
+        "total": 767
       },
       "1900EUR": {
         "item": 0,
-        "total": 1007
+        "total": 767
       },
       "2000EUR": {
         "item": 0,
-        "total": 1007
+        "total": 767
       },
       "2100EUR": {
         "item": 0,
-        "total": 1007
+        "total": 767
       },
       "2200EUR": {
         "item": 0,
-        "total": 1007
+        "total": 767
       },
       "2300EUR": {
         "item": 0,
-        "total": 1007
+        "total": 767
       },
       "2400EUR": {
-        "item": 1,
-        "total": 1008
+        "item": 0,
+        "total": 767
       },
       "2500EUR": {
         "item": 0,
-        "total": 1008
+        "total": 767
       },
       "2600EUR": {
         "item": 0,
-        "total": 1008
+        "total": 767
       },
       "2700EUR": {
         "item": 0,
-        "total": 1008
+        "total": 767
       },
       "2800EUR": {
         "item": 0,
-        "total": 1008
+        "total": 767
+      },
+      "2900EUR": {
+        "item": 0,
+        "total": 767
+      },
+      "3000EUR": {
+        "item": 0,
+        "total": 767
+      },
+      "3100EUR": {
+        "item": 0,
+        "total": 767
+      },
+      "3200EUR": {
+        "item": 0,
+        "total": 767
+      },
+      "3300EUR": {
+        "item": 1,
+        "total": 768
+      },
+      "3400EUR": {
+        "item": 0,
+        "total": 768
+      },
+      "3500EUR": {
+        "item": 0,
+        "total": 768
+      },
+      "3600EUR": {
+        "item": 0,
+        "total": 768
+      },
+      "3700EUR": {
+        "item": 3,
+        "total": 771
+      },
+      "3800EUR": {
+        "item": 2,
+        "total": 773
+      },
+      "3900EUR": {
+        "item": 4,
+        "total": 777
+      },
+      "4000EUR": {
+        "item": 0,
+        "total": 777
+      },
+      "4100EUR": {
+        "item": 1,
+        "total": 778
+      },
+      "4200EUR": {
+        "item": 4,
+        "total": 782
+      },
+      "4300EUR": {
+        "item": 0,
+        "total": 782
+      },
+      "4400EUR": {
+        "item": 2,
+        "total": 784
+      },
+      "4500EUR": {
+        "item": 1,
+        "total": 785
+      },
+      "4600EUR": {
+        "item": 2,
+        "total": 787
+      },
+      "4700EUR": {
+        "item": 3,
+        "total": 790
+      },
+      "4800EUR": {
+        "item": 2,
+        "total": 792
+      },
+      "4900EUR": {
+        "item": 6,
+        "total": 798
+      },
+      "5000EUR": {
+        "item": 0,
+        "total": 798
+      },
+      "5100EUR": {
+        "item": 3,
+        "total": 801
+      },
+      "5200EUR": {
+        "item": 3,
+        "total": 804
+      },
+      "5300EUR": {
+        "item": 2,
+        "total": 806
+      },
+      "5400EUR": {
+        "item": 6,
+        "total": 812
+      },
+      "5500EUR": {
+        "item": 5,
+        "total": 817
+      },
+      "5600EUR": {
+        "item": 1,
+        "total": 818
+      },
+      "5700EUR": {
+        "item": 4,
+        "total": 822
+      },
+      "5800EUR": {
+        "item": 3,
+        "total": 825
+      },
+      "5900EUR": {
+        "item": 19,
+        "total": 844
+      },
+      "6000EUR": {
+        "item": 2,
+        "total": 846
+      },
+      "6100EUR": {
+        "item": 1,
+        "total": 847
+      },
+      "6200EUR": {
+        "item": 2,
+        "total": 849
+      },
+      "6300EUR": {
+        "item": 6,
+        "total": 855
+      },
+      "6400EUR": {
+        "item": 10,
+        "total": 865
+      },
+      "6500EUR": {
+        "item": 4,
+        "total": 869
+      },
+      "6600EUR": {
+        "item": 2,
+        "total": 871
+      },
+      "6700EUR": {
+        "item": 1,
+        "total": 872
+      },
+      "6800EUR": {
+        "item": 7,
+        "total": 879
+      },
+      "6900EUR": {
+        "item": 30,
+        "total": 909
+      },
+      "7000EUR": {
+        "item": 3,
+        "total": 912
+      },
+      "7100EUR": {
+        "item": 1,
+        "total": 913
+      },
+      "7200EUR": {
+        "item": 9,
+        "total": 922
+      },
+      "7300EUR": {
+        "item": 5,
+        "total": 927
+      },
+      "7400EUR": {
+        "item": 13,
+        "total": 940
+      },
+      "7500EUR": {
+        "item": 15,
+        "total": 955
+      },
+      "7600EUR": {
+        "item": 6,
+        "total": 961
+      },
+      "7700EUR": {
+        "item": 5,
+        "total": 966
+      },
+      "7800EUR": {
+        "item": 4,
+        "total": 970
+      },
+      "7900EUR": {
+        "item": 36,
+        "total": 1006
+      },
+      "8000EUR": {
+        "item": 0,
+        "total": 1006
+      }
+    },
+    "1500ccm": {
+      "capacityCount": 625,
+      "1000EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "1100EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "1200EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "1300EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "1400EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "1500EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "1600EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "1700EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "1800EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "1900EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "2000EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "2100EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "2200EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "2300EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "2400EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "2500EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "2600EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "2700EUR": {
+        "item": 0,
+        "total": 1006
+      },
+      "2800EUR": {
+        "item": 0,
+        "total": 1006
       },
       "2900EUR": {
         "item": 3,
-        "total": 1011
+        "total": 1009
       },
       "3000EUR": {
-        "item": 2,
-        "total": 1013
+        "item": 3,
+        "total": 1012
       },
       "3100EUR": {
         "item": 2,
-        "total": 1015
+        "total": 1014
       },
       "3200EUR": {
-        "item": 5,
-        "total": 1020
+        "item": 4,
+        "total": 1018
       },
       "3300EUR": {
         "item": 2,
-        "total": 1022
+        "total": 1020
       },
       "3400EUR": {
-        "item": 1,
+        "item": 3,
         "total": 1023
       },
       "3500EUR": {
@@ -2763,3783 +2690,3056 @@
         "total": 1024
       },
       "3600EUR": {
-        "item": 2,
-        "total": 1026
+        "item": 1,
+        "total": 1025
       },
       "3700EUR": {
         "item": 0,
-        "total": 1026
+        "total": 1025
       },
       "3800EUR": {
         "item": 1,
-        "total": 1027
+        "total": 1026
       },
       "3900EUR": {
         "item": 7,
-        "total": 1034
+        "total": 1033
       },
       "4000EUR": {
         "item": 0,
-        "total": 1034
+        "total": 1033
       },
       "4100EUR": {
-        "item": 3,
-        "total": 1037
+        "item": 1,
+        "total": 1034
       },
       "4200EUR": {
-        "item": 2,
-        "total": 1039
+        "item": 1,
+        "total": 1035
       },
       "4300EUR": {
-        "item": 3,
-        "total": 1042
+        "item": 2,
+        "total": 1037
       },
       "4400EUR": {
         "item": 1,
-        "total": 1043
+        "total": 1038
       },
       "4500EUR": {
         "item": 1,
-        "total": 1044
+        "total": 1039
       },
       "4600EUR": {
-        "item": 1,
-        "total": 1045
+        "item": 2,
+        "total": 1041
       },
       "4700EUR": {
         "item": 4,
-        "total": 1049
+        "total": 1045
       },
       "4800EUR": {
-        "item": 4,
-        "total": 1053
+        "item": 5,
+        "total": 1050
       },
       "4900EUR": {
-        "item": 11,
-        "total": 1064
+        "item": 13,
+        "total": 1063
       },
       "5000EUR": {
-        "item": 2,
-        "total": 1066
+        "item": 1,
+        "total": 1064
       },
       "5100EUR": {
-        "item": 5,
-        "total": 1071
+        "item": 3,
+        "total": 1067
       },
       "5200EUR": {
         "item": 5,
-        "total": 1076
+        "total": 1072
       },
       "5300EUR": {
         "item": 5,
-        "total": 1081
+        "total": 1077
       },
       "5400EUR": {
-        "item": 13,
-        "total": 1094
+        "item": 14,
+        "total": 1091
       },
       "5500EUR": {
-        "item": 12,
-        "total": 1106
+        "item": 11,
+        "total": 1102
       },
       "5600EUR": {
-        "item": 2,
-        "total": 1108
+        "item": 3,
+        "total": 1105
       },
       "5700EUR": {
-        "item": 8,
-        "total": 1116
+        "item": 9,
+        "total": 1114
       },
       "5800EUR": {
-        "item": 4,
+        "item": 6,
         "total": 1120
       },
       "5900EUR": {
-        "item": 47,
-        "total": 1167
+        "item": 50,
+        "total": 1170
       },
       "6000EUR": {
-        "item": 4,
-        "total": 1171
+        "item": 5,
+        "total": 1175
       },
       "6100EUR": {
-        "item": 5,
-        "total": 1176
+        "item": 3,
+        "total": 1178
       },
       "6200EUR": {
         "item": 17,
-        "total": 1193
+        "total": 1195
       },
       "6300EUR": {
-        "item": 8,
-        "total": 1201
+        "item": 4,
+        "total": 1199
       },
       "6400EUR": {
-        "item": 25,
-        "total": 1226
+        "item": 29,
+        "total": 1228
       },
       "6500EUR": {
         "item": 9,
-        "total": 1235
+        "total": 1237
       },
       "6600EUR": {
-        "item": 12,
-        "total": 1247
+        "item": 11,
+        "total": 1248
       },
       "6700EUR": {
-        "item": 12,
-        "total": 1259
+        "item": 13,
+        "total": 1261
       },
       "6800EUR": {
         "item": 23,
-        "total": 1282
+        "total": 1284
       },
       "6900EUR": {
-        "item": 89,
-        "total": 1371
-      },
-      "7000EUR": {
-        "item": 8,
+        "item": 95,
         "total": 1379
       },
+      "7000EUR": {
+        "item": 7,
+        "total": 1386
+      },
       "7100EUR": {
-        "item": 15,
-        "total": 1394
+        "item": 13,
+        "total": 1399
       },
       "7200EUR": {
-        "item": 14,
-        "total": 1408
+        "item": 15,
+        "total": 1414
       },
       "7300EUR": {
-        "item": 12,
-        "total": 1420
+        "item": 11,
+        "total": 1425
       },
       "7400EUR": {
-        "item": 36,
-        "total": 1456
+        "item": 37,
+        "total": 1462
       },
       "7500EUR": {
-        "item": 21,
-        "total": 1477
+        "item": 20,
+        "total": 1482
       },
       "7600EUR": {
-        "item": 13,
-        "total": 1490
+        "item": 9,
+        "total": 1491
       },
       "7700EUR": {
         "item": 24,
-        "total": 1514
+        "total": 1515
       },
       "7800EUR": {
-        "item": 23,
-        "total": 1537
-      },
-      "7900EUR": {
-        "item": 88,
-        "total": 1625
-      },
-      "8000EUR": {
-        "item": 3,
-        "total": 1628
-      }
-    },
-    "1500ccm": {
-      "capacityCount": 1429,
-      "0EUR": {
-        "item": 0,
-        "total": 1628
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 1628
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 1628
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 1628
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 1628
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 1628
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 1628
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 1628
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 1628
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 1628
-      },
-      "1000EUR": {
-        "item": 0,
-        "total": 1628
-      },
-      "1100EUR": {
-        "item": 0,
-        "total": 1628
-      },
-      "1200EUR": {
-        "item": 0,
-        "total": 1628
-      },
-      "1300EUR": {
-        "item": 0,
-        "total": 1628
-      },
-      "1400EUR": {
-        "item": 0,
-        "total": 1628
-      },
-      "1500EUR": {
-        "item": 0,
-        "total": 1628
-      },
-      "1600EUR": {
-        "item": 1,
-        "total": 1629
-      },
-      "1700EUR": {
-        "item": 0,
-        "total": 1629
-      },
-      "1800EUR": {
-        "item": 0,
-        "total": 1629
-      },
-      "1900EUR": {
-        "item": 0,
-        "total": 1629
-      },
-      "2000EUR": {
-        "item": 0,
-        "total": 1629
-      },
-      "2100EUR": {
-        "item": 0,
-        "total": 1629
-      },
-      "2200EUR": {
-        "item": 0,
-        "total": 1629
-      },
-      "2300EUR": {
-        "item": 0,
-        "total": 1629
-      },
-      "2400EUR": {
-        "item": 0,
-        "total": 1629
-      },
-      "2500EUR": {
-        "item": 0,
-        "total": 1629
-      },
-      "2600EUR": {
-        "item": 0,
-        "total": 1629
-      },
-      "2700EUR": {
-        "item": 0,
-        "total": 1629
-      },
-      "2800EUR": {
-        "item": 0,
-        "total": 1629
-      },
-      "2900EUR": {
-        "item": 0,
-        "total": 1629
-      },
-      "3000EUR": {
-        "item": 0,
-        "total": 1629
-      },
-      "3100EUR": {
-        "item": 0,
-        "total": 1629
-      },
-      "3200EUR": {
-        "item": 1,
-        "total": 1630
-      },
-      "3300EUR": {
-        "item": 0,
-        "total": 1630
-      },
-      "3400EUR": {
-        "item": 1,
-        "total": 1631
-      },
-      "3500EUR": {
-        "item": 2,
-        "total": 1633
-      },
-      "3600EUR": {
-        "item": 0,
-        "total": 1633
-      },
-      "3700EUR": {
-        "item": 1,
-        "total": 1634
-      },
-      "3800EUR": {
-        "item": 1,
-        "total": 1635
-      },
-      "3900EUR": {
-        "item": 2,
-        "total": 1637
-      },
-      "4000EUR": {
-        "item": 0,
-        "total": 1637
-      },
-      "4100EUR": {
-        "item": 2,
-        "total": 1639
-      },
-      "4200EUR": {
-        "item": 2,
-        "total": 1641
-      },
-      "4300EUR": {
-        "item": 0,
-        "total": 1641
-      },
-      "4400EUR": {
-        "item": 4,
-        "total": 1645
-      },
-      "4500EUR": {
-        "item": 2,
-        "total": 1647
-      },
-      "4600EUR": {
-        "item": 2,
-        "total": 1649
-      },
-      "4700EUR": {
-        "item": 10,
-        "total": 1659
-      },
-      "4800EUR": {
-        "item": 4,
-        "total": 1663
-      },
-      "4900EUR": {
-        "item": 32,
-        "total": 1695
-      },
-      "5000EUR": {
-        "item": 4,
-        "total": 1699
-      },
-      "5100EUR": {
-        "item": 2,
-        "total": 1701
-      },
-      "5200EUR": {
-        "item": 11,
-        "total": 1712
-      },
-      "5300EUR": {
-        "item": 9,
-        "total": 1721
-      },
-      "5400EUR": {
-        "item": 18,
-        "total": 1739
-      },
-      "5500EUR": {
-        "item": 14,
-        "total": 1753
-      },
-      "5600EUR": {
-        "item": 8,
-        "total": 1761
-      },
-      "5700EUR": {
-        "item": 13,
-        "total": 1774
-      },
-      "5800EUR": {
-        "item": 19,
-        "total": 1793
-      },
-      "5900EUR": {
-        "item": 70,
-        "total": 1863
-      },
-      "6000EUR": {
-        "item": 6,
-        "total": 1869
-      },
-      "6100EUR": {
-        "item": 9,
-        "total": 1878
-      },
-      "6200EUR": {
-        "item": 25,
-        "total": 1903
-      },
-      "6300EUR": {
-        "item": 20,
-        "total": 1923
-      },
-      "6400EUR": {
-        "item": 44,
-        "total": 1967
-      },
-      "6500EUR": {
-        "item": 49,
-        "total": 2016
-      },
-      "6600EUR": {
-        "item": 29,
-        "total": 2045
-      },
-      "6700EUR": {
-        "item": 47,
-        "total": 2092
-      },
-      "6800EUR": {
-        "item": 29,
-        "total": 2121
-      },
-      "6900EUR": {
-        "item": 163,
-        "total": 2284
-      },
-      "7000EUR": {
-        "item": 26,
-        "total": 2310
-      },
-      "7100EUR": {
-        "item": 19,
-        "total": 2329
-      },
-      "7200EUR": {
-        "item": 40,
-        "total": 2369
-      },
-      "7300EUR": {
-        "item": 39,
-        "total": 2408
-      },
-      "7400EUR": {
-        "item": 101,
-        "total": 2509
-      },
-      "7500EUR": {
-        "item": 53,
-        "total": 2562
-      },
-      "7600EUR": {
-        "item": 34,
-        "total": 2596
-      },
-      "7700EUR": {
-        "item": 62,
-        "total": 2658
-      },
-      "7800EUR": {
-        "item": 69,
-        "total": 2727
-      },
-      "7900EUR": {
-        "item": 303,
-        "total": 3030
-      },
-      "8000EUR": {
         "item": 27,
-        "total": 3057
+        "total": 1542
+      },
+      "7900EUR": {
+        "item": 85,
+        "total": 1627
+      },
+      "8000EUR": {
+        "item": 4,
+        "total": 1631
       }
     },
     "1600ccm": {
-      "capacityCount": 232,
-      "0EUR": {
-        "item": 0,
-        "total": 3057
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 3057
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 3057
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 3057
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 3057
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 3057
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 3057
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 3057
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 3057
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 3057
-      },
+      "capacityCount": 1457,
       "1000EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1631
       },
       "1100EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1631
       },
       "1200EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1631
       },
       "1300EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1631
       },
       "1400EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1631
       },
       "1500EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1631
       },
       "1600EUR": {
-        "item": 0,
-        "total": 3057
+        "item": 1,
+        "total": 1632
       },
       "1700EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1632
       },
       "1800EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1632
       },
       "1900EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1632
       },
       "2000EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1632
       },
       "2100EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1632
       },
       "2200EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1632
       },
       "2300EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1632
       },
       "2400EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1632
       },
       "2500EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1632
       },
       "2600EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1632
       },
       "2700EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1632
       },
       "2800EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1632
       },
       "2900EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1632
       },
       "3000EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1632
       },
       "3100EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1632
       },
       "3200EUR": {
-        "item": 0,
-        "total": 3057
+        "item": 1,
+        "total": 1633
       },
       "3300EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1633
       },
       "3400EUR": {
-        "item": 0,
-        "total": 3057
+        "item": 1,
+        "total": 1634
       },
       "3500EUR": {
-        "item": 0,
-        "total": 3057
+        "item": 2,
+        "total": 1636
       },
       "3600EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1636
       },
       "3700EUR": {
         "item": 0,
-        "total": 3057
+        "total": 1636
       },
       "3800EUR": {
-        "item": 0,
-        "total": 3057
+        "item": 2,
+        "total": 1638
       },
       "3900EUR": {
-        "item": 1,
-        "total": 3058
+        "item": 2,
+        "total": 1640
       },
       "4000EUR": {
         "item": 0,
-        "total": 3058
+        "total": 1640
       },
       "4100EUR": {
-        "item": 0,
-        "total": 3058
+        "item": 1,
+        "total": 1641
       },
       "4200EUR": {
-        "item": 0,
-        "total": 3058
+        "item": 2,
+        "total": 1643
       },
       "4300EUR": {
         "item": 0,
-        "total": 3058
+        "total": 1643
       },
       "4400EUR": {
-        "item": 0,
-        "total": 3058
+        "item": 3,
+        "total": 1646
       },
       "4500EUR": {
-        "item": 0,
-        "total": 3058
+        "item": 6,
+        "total": 1652
       },
       "4600EUR": {
-        "item": 0,
-        "total": 3058
+        "item": 1,
+        "total": 1653
       },
       "4700EUR": {
-        "item": 0,
-        "total": 3058
+        "item": 13,
+        "total": 1666
       },
       "4800EUR": {
-        "item": 0,
-        "total": 3058
+        "item": 6,
+        "total": 1672
       },
       "4900EUR": {
-        "item": 2,
-        "total": 3060
+        "item": 23,
+        "total": 1695
       },
       "5000EUR": {
-        "item": 0,
-        "total": 3060
+        "item": 1,
+        "total": 1696
       },
       "5100EUR": {
-        "item": 0,
-        "total": 3060
+        "item": 2,
+        "total": 1698
       },
       "5200EUR": {
-        "item": 0,
-        "total": 3060
+        "item": 10,
+        "total": 1708
       },
       "5300EUR": {
-        "item": 3,
-        "total": 3063
+        "item": 10,
+        "total": 1718
       },
       "5400EUR": {
-        "item": 1,
-        "total": 3064
+        "item": 21,
+        "total": 1739
       },
       "5500EUR": {
-        "item": 4,
-        "total": 3068
+        "item": 15,
+        "total": 1754
       },
       "5600EUR": {
-        "item": 1,
-        "total": 3069
+        "item": 12,
+        "total": 1766
       },
       "5700EUR": {
-        "item": 1,
-        "total": 3070
+        "item": 11,
+        "total": 1777
       },
       "5800EUR": {
-        "item": 2,
-        "total": 3072
+        "item": 14,
+        "total": 1791
       },
       "5900EUR": {
-        "item": 9,
-        "total": 3081
+        "item": 77,
+        "total": 1868
       },
       "6000EUR": {
-        "item": 1,
-        "total": 3082
+        "item": 9,
+        "total": 1877
       },
       "6100EUR": {
-        "item": 0,
-        "total": 3082
+        "item": 5,
+        "total": 1882
       },
       "6200EUR": {
-        "item": 4,
-        "total": 3086
+        "item": 28,
+        "total": 1910
       },
       "6300EUR": {
-        "item": 7,
-        "total": 3093
+        "item": 18,
+        "total": 1928
       },
       "6400EUR": {
-        "item": 11,
-        "total": 3104
+        "item": 50,
+        "total": 1978
       },
       "6500EUR": {
-        "item": 6,
-        "total": 3110
+        "item": 54,
+        "total": 2032
       },
       "6600EUR": {
-        "item": 6,
-        "total": 3116
+        "item": 24,
+        "total": 2056
       },
       "6700EUR": {
-        "item": 8,
-        "total": 3124
+        "item": 38,
+        "total": 2094
       },
       "6800EUR": {
-        "item": 12,
-        "total": 3136
+        "item": 34,
+        "total": 2128
       },
       "6900EUR": {
-        "item": 37,
-        "total": 3173
+        "item": 173,
+        "total": 2301
       },
       "7000EUR": {
-        "item": 4,
-        "total": 3177
+        "item": 27,
+        "total": 2328
       },
       "7100EUR": {
-        "item": 1,
-        "total": 3178
+        "item": 20,
+        "total": 2348
       },
       "7200EUR": {
-        "item": 9,
-        "total": 3187
+        "item": 48,
+        "total": 2396
       },
       "7300EUR": {
-        "item": 10,
-        "total": 3197
+        "item": 38,
+        "total": 2434
       },
       "7400EUR": {
-        "item": 17,
-        "total": 3214
+        "item": 109,
+        "total": 2543
       },
       "7500EUR": {
-        "item": 5,
-        "total": 3219
+        "item": 54,
+        "total": 2597
       },
       "7600EUR": {
-        "item": 4,
-        "total": 3223
+        "item": 36,
+        "total": 2633
       },
       "7700EUR": {
-        "item": 11,
-        "total": 3234
+        "item": 60,
+        "total": 2693
       },
       "7800EUR": {
-        "item": 12,
-        "total": 3246
+        "item": 61,
+        "total": 2754
       },
       "7900EUR": {
-        "item": 42,
-        "total": 3288
+        "item": 307,
+        "total": 3061
       },
       "8000EUR": {
-        "item": 1,
-        "total": 3289
+        "item": 27,
+        "total": 3088
       }
     },
     "1700ccm": {
-      "capacityCount": 63,
-      "0EUR": {
-        "item": 0,
-        "total": 3289
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 3289
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 3289
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 3289
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 3289
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 3289
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 3289
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 3289
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 3289
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 3289
-      },
+      "capacityCount": 214,
       "1000EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "1100EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "1200EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "1300EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "1400EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "1500EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "1600EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "1700EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "1800EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "1900EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "2000EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "2100EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "2200EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "2300EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "2400EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "2500EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "2600EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "2700EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "2800EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "2900EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "3000EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "3100EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "3200EUR": {
         "item": 0,
-        "total": 3289
+        "total": 3088
       },
       "3300EUR": {
-        "item": 1,
-        "total": 3290
+        "item": 0,
+        "total": 3088
       },
       "3400EUR": {
         "item": 0,
-        "total": 3290
+        "total": 3088
       },
       "3500EUR": {
         "item": 0,
-        "total": 3290
+        "total": 3088
       },
       "3600EUR": {
         "item": 0,
-        "total": 3290
+        "total": 3088
       },
       "3700EUR": {
         "item": 0,
-        "total": 3290
+        "total": 3088
       },
       "3800EUR": {
         "item": 0,
-        "total": 3290
+        "total": 3088
       },
       "3900EUR": {
-        "item": 0,
-        "total": 3290
+        "item": 1,
+        "total": 3089
       },
       "4000EUR": {
         "item": 0,
-        "total": 3290
+        "total": 3089
       },
       "4100EUR": {
         "item": 0,
-        "total": 3290
+        "total": 3089
       },
       "4200EUR": {
         "item": 0,
-        "total": 3290
+        "total": 3089
       },
       "4300EUR": {
         "item": 0,
-        "total": 3290
+        "total": 3089
       },
       "4400EUR": {
-        "item": 1,
-        "total": 3291
+        "item": 0,
+        "total": 3089
       },
       "4500EUR": {
-        "item": 1,
-        "total": 3292
+        "item": 0,
+        "total": 3089
       },
       "4600EUR": {
         "item": 0,
-        "total": 3292
+        "total": 3089
       },
       "4700EUR": {
-        "item": 1,
-        "total": 3293
+        "item": 0,
+        "total": 3089
       },
       "4800EUR": {
         "item": 0,
-        "total": 3293
+        "total": 3089
       },
       "4900EUR": {
         "item": 1,
-        "total": 3294
+        "total": 3090
       },
       "5000EUR": {
         "item": 0,
-        "total": 3294
+        "total": 3090
       },
       "5100EUR": {
         "item": 0,
-        "total": 3294
+        "total": 3090
       },
       "5200EUR": {
         "item": 0,
-        "total": 3294
+        "total": 3090
       },
       "5300EUR": {
-        "item": 0,
-        "total": 3294
+        "item": 2,
+        "total": 3092
       },
       "5400EUR": {
-        "item": 3,
-        "total": 3297
+        "item": 2,
+        "total": 3094
       },
       "5500EUR": {
         "item": 2,
-        "total": 3299
+        "total": 3096
       },
       "5600EUR": {
-        "item": 2,
-        "total": 3301
+        "item": 1,
+        "total": 3097
       },
       "5700EUR": {
         "item": 0,
-        "total": 3301
+        "total": 3097
       },
       "5800EUR": {
-        "item": 0,
-        "total": 3301
+        "item": 2,
+        "total": 3099
       },
       "5900EUR": {
-        "item": 8,
-        "total": 3309
+        "item": 12,
+        "total": 3111
       },
       "6000EUR": {
         "item": 0,
-        "total": 3309
+        "total": 3111
       },
       "6100EUR": {
         "item": 0,
-        "total": 3309
+        "total": 3111
       },
       "6200EUR": {
-        "item": 0,
-        "total": 3309
+        "item": 4,
+        "total": 3115
       },
       "6300EUR": {
-        "item": 0,
-        "total": 3309
+        "item": 4,
+        "total": 3119
       },
       "6400EUR": {
-        "item": 3,
-        "total": 3312
+        "item": 11,
+        "total": 3130
       },
       "6500EUR": {
-        "item": 2,
-        "total": 3314
+        "item": 6,
+        "total": 3136
       },
       "6600EUR": {
-        "item": 1,
-        "total": 3315
+        "item": 6,
+        "total": 3142
       },
       "6700EUR": {
-        "item": 2,
-        "total": 3317
+        "item": 8,
+        "total": 3150
       },
       "6800EUR": {
-        "item": 3,
-        "total": 3320
+        "item": 6,
+        "total": 3156
       },
       "6900EUR": {
-        "item": 14,
-        "total": 3334
+        "item": 34,
+        "total": 3190
       },
       "7000EUR": {
-        "item": 0,
-        "total": 3334
+        "item": 4,
+        "total": 3194
       },
       "7100EUR": {
         "item": 0,
-        "total": 3334
+        "total": 3194
       },
       "7200EUR": {
-        "item": 0,
-        "total": 3334
+        "item": 7,
+        "total": 3201
       },
       "7300EUR": {
-        "item": 1,
-        "total": 3335
+        "item": 10,
+        "total": 3211
       },
       "7400EUR": {
-        "item": 3,
-        "total": 3338
+        "item": 19,
+        "total": 3230
       },
       "7500EUR": {
-        "item": 1,
-        "total": 3339
+        "item": 6,
+        "total": 3236
       },
       "7600EUR": {
         "item": 1,
-        "total": 3340
+        "total": 3237
       },
       "7700EUR": {
-        "item": 3,
-        "total": 3343
+        "item": 9,
+        "total": 3246
       },
       "7800EUR": {
-        "item": 0,
-        "total": 3343
+        "item": 12,
+        "total": 3258
       },
       "7900EUR": {
-        "item": 9,
-        "total": 3352
+        "item": 43,
+        "total": 3301
       },
       "8000EUR": {
-        "item": 0,
-        "total": 3352
+        "item": 1,
+        "total": 3302
       }
     },
     "1800ccm": {
-      "capacityCount": 17,
-      "0EUR": {
-        "item": 0,
-        "total": 3352
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 3352
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 3352
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 3352
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 3352
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 3352
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 3352
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 3352
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 3352
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 3352
-      },
+      "capacityCount": 62,
       "1000EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "1100EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "1200EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "1300EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "1400EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "1500EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "1600EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "1700EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "1800EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "1900EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "2000EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "2100EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "2200EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "2300EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "2400EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "2500EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "2600EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "2700EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "2800EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "2900EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "3000EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "3100EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "3200EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3302
       },
       "3300EUR": {
-        "item": 0,
-        "total": 3352
+        "item": 1,
+        "total": 3303
       },
       "3400EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3303
       },
       "3500EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3303
       },
       "3600EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3303
       },
       "3700EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3303
       },
       "3800EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3303
       },
       "3900EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3303
       },
       "4000EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3303
       },
       "4100EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3303
       },
       "4200EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3303
       },
       "4300EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3303
       },
       "4400EUR": {
-        "item": 0,
-        "total": 3352
+        "item": 1,
+        "total": 3304
       },
       "4500EUR": {
-        "item": 0,
-        "total": 3352
+        "item": 1,
+        "total": 3305
       },
       "4600EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3305
       },
       "4700EUR": {
-        "item": 0,
-        "total": 3352
+        "item": 1,
+        "total": 3306
       },
       "4800EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3306
       },
       "4900EUR": {
-        "item": 0,
-        "total": 3352
+        "item": 1,
+        "total": 3307
       },
       "5000EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3307
       },
       "5100EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3307
       },
       "5200EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3307
       },
       "5300EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3307
       },
       "5400EUR": {
-        "item": 0,
-        "total": 3352
+        "item": 2,
+        "total": 3309
       },
       "5500EUR": {
-        "item": 0,
-        "total": 3352
+        "item": 3,
+        "total": 3312
       },
       "5600EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3312
       },
       "5700EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3312
       },
       "5800EUR": {
         "item": 0,
-        "total": 3352
+        "total": 3312
       },
       "5900EUR": {
-        "item": 1,
-        "total": 3353
+        "item": 9,
+        "total": 3321
       },
       "6000EUR": {
         "item": 0,
-        "total": 3353
+        "total": 3321
       },
       "6100EUR": {
         "item": 0,
-        "total": 3353
+        "total": 3321
       },
       "6200EUR": {
         "item": 0,
-        "total": 3353
+        "total": 3321
       },
       "6300EUR": {
         "item": 0,
-        "total": 3353
+        "total": 3321
       },
       "6400EUR": {
-        "item": 0,
-        "total": 3353
+        "item": 3,
+        "total": 3324
       },
       "6500EUR": {
-        "item": 2,
-        "total": 3355
+        "item": 1,
+        "total": 3325
       },
       "6600EUR": {
-        "item": 0,
-        "total": 3355
+        "item": 2,
+        "total": 3327
       },
       "6700EUR": {
-        "item": 0,
-        "total": 3355
+        "item": 1,
+        "total": 3328
       },
       "6800EUR": {
-        "item": 1,
-        "total": 3356
+        "item": 3,
+        "total": 3331
       },
       "6900EUR": {
-        "item": 4,
-        "total": 3360
+        "item": 15,
+        "total": 3346
       },
       "7000EUR": {
-        "item": 1,
-        "total": 3361
+        "item": 0,
+        "total": 3346
       },
       "7100EUR": {
-        "item": 1,
-        "total": 3362
+        "item": 0,
+        "total": 3346
       },
       "7200EUR": {
         "item": 0,
-        "total": 3362
+        "total": 3346
       },
       "7300EUR": {
-        "item": 0,
-        "total": 3362
+        "item": 1,
+        "total": 3347
       },
       "7400EUR": {
-        "item": 2,
-        "total": 3364
+        "item": 3,
+        "total": 3350
       },
       "7500EUR": {
-        "item": 1,
-        "total": 3365
+        "item": 2,
+        "total": 3352
       },
       "7600EUR": {
-        "item": 0,
-        "total": 3365
+        "item": 1,
+        "total": 3353
       },
       "7700EUR": {
-        "item": 1,
-        "total": 3366
+        "item": 2,
+        "total": 3355
       },
       "7800EUR": {
         "item": 0,
-        "total": 3366
+        "total": 3355
       },
       "7900EUR": {
-        "item": 3,
-        "total": 3369
+        "item": 9,
+        "total": 3364
       },
       "8000EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       }
     },
     "1900ccm": {
-      "capacityCount": 364,
-      "0EUR": {
-        "item": 0,
-        "total": 3369
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 3369
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 3369
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 3369
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 3369
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 3369
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 3369
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 3369
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 3369
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 3369
-      },
+      "capacityCount": 16,
       "1000EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "1100EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "1200EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "1300EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "1400EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "1500EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "1600EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "1700EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "1800EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "1900EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "2000EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "2100EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "2200EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "2300EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "2400EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "2500EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "2600EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "2700EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "2800EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "2900EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "3000EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "3100EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "3200EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "3300EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "3400EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "3500EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "3600EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "3700EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "3800EUR": {
         "item": 0,
-        "total": 3369
+        "total": 3364
       },
       "3900EUR": {
-        "item": 1,
-        "total": 3370
+        "item": 0,
+        "total": 3364
       },
       "4000EUR": {
         "item": 0,
-        "total": 3370
+        "total": 3364
       },
       "4100EUR": {
         "item": 0,
-        "total": 3370
+        "total": 3364
       },
       "4200EUR": {
         "item": 0,
-        "total": 3370
+        "total": 3364
       },
       "4300EUR": {
         "item": 0,
-        "total": 3370
+        "total": 3364
       },
       "4400EUR": {
         "item": 0,
-        "total": 3370
+        "total": 3364
       },
       "4500EUR": {
-        "item": 1,
-        "total": 3371
+        "item": 0,
+        "total": 3364
       },
       "4600EUR": {
         "item": 0,
-        "total": 3371
+        "total": 3364
       },
       "4700EUR": {
         "item": 0,
-        "total": 3371
+        "total": 3364
       },
       "4800EUR": {
-        "item": 1,
-        "total": 3372
+        "item": 0,
+        "total": 3364
       },
       "4900EUR": {
-        "item": 4,
-        "total": 3376
+        "item": 0,
+        "total": 3364
       },
       "5000EUR": {
-        "item": 1,
-        "total": 3377
+        "item": 0,
+        "total": 3364
       },
       "5100EUR": {
-        "item": 1,
-        "total": 3378
+        "item": 0,
+        "total": 3364
       },
       "5200EUR": {
-        "item": 1,
-        "total": 3379
+        "item": 0,
+        "total": 3364
       },
       "5300EUR": {
-        "item": 1,
-        "total": 3380
+        "item": 0,
+        "total": 3364
       },
       "5400EUR": {
-        "item": 1,
-        "total": 3381
+        "item": 0,
+        "total": 3364
       },
       "5500EUR": {
-        "item": 3,
-        "total": 3384
+        "item": 0,
+        "total": 3364
       },
       "5600EUR": {
         "item": 0,
-        "total": 3384
+        "total": 3364
       },
       "5700EUR": {
-        "item": 2,
-        "total": 3386
+        "item": 0,
+        "total": 3364
       },
       "5800EUR": {
-        "item": 1,
-        "total": 3387
+        "item": 0,
+        "total": 3364
       },
       "5900EUR": {
-        "item": 10,
-        "total": 3397
+        "item": 1,
+        "total": 3365
       },
       "6000EUR": {
-        "item": 1,
-        "total": 3398
+        "item": 0,
+        "total": 3365
       },
       "6100EUR": {
         "item": 1,
-        "total": 3399
+        "total": 3366
       },
       "6200EUR": {
-        "item": 7,
-        "total": 3406
+        "item": 0,
+        "total": 3366
       },
       "6300EUR": {
         "item": 0,
-        "total": 3406
+        "total": 3366
       },
       "6400EUR": {
-        "item": 5,
-        "total": 3411
+        "item": 0,
+        "total": 3366
       },
       "6500EUR": {
-        "item": 10,
-        "total": 3421
+        "item": 2,
+        "total": 3368
       },
       "6600EUR": {
-        "item": 4,
-        "total": 3425
+        "item": 0,
+        "total": 3368
       },
       "6700EUR": {
-        "item": 8,
-        "total": 3433
+        "item": 0,
+        "total": 3368
       },
       "6800EUR": {
-        "item": 3,
-        "total": 3436
+        "item": 1,
+        "total": 3369
       },
       "6900EUR": {
-        "item": 54,
-        "total": 3490
+        "item": 3,
+        "total": 3372
       },
       "7000EUR": {
-        "item": 4,
-        "total": 3494
+        "item": 1,
+        "total": 3373
       },
       "7100EUR": {
-        "item": 3,
-        "total": 3497
+        "item": 0,
+        "total": 3373
       },
       "7200EUR": {
-        "item": 6,
-        "total": 3503
+        "item": 0,
+        "total": 3373
       },
       "7300EUR": {
-        "item": 12,
-        "total": 3515
+        "item": 0,
+        "total": 3373
       },
       "7400EUR": {
-        "item": 22,
-        "total": 3537
+        "item": 1,
+        "total": 3374
       },
       "7500EUR": {
-        "item": 25,
-        "total": 3562
+        "item": 1,
+        "total": 3375
       },
       "7600EUR": {
-        "item": 8,
-        "total": 3570
+        "item": 0,
+        "total": 3375
       },
       "7700EUR": {
-        "item": 25,
-        "total": 3595
+        "item": 1,
+        "total": 3376
       },
       "7800EUR": {
-        "item": 18,
-        "total": 3613
+        "item": 0,
+        "total": 3376
       },
       "7900EUR": {
-        "item": 106,
-        "total": 3719
+        "item": 3,
+        "total": 3379
       },
       "8000EUR": {
-        "item": 14,
-        "total": 3733
+        "item": 1,
+        "total": 3380
       }
     },
     "2000ccm": {
-      "capacityCount": 2,
-      "0EUR": {
-        "item": 0,
-        "total": 3733
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 3733
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 3733
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 3733
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 3733
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 3733
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 3733
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 3733
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 3733
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 3733
-      },
+      "capacityCount": 373,
       "1000EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "1100EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "1200EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "1300EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "1400EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "1500EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "1600EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "1700EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "1800EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "1900EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "2000EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "2100EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "2200EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "2300EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "2400EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "2500EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "2600EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "2700EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "2800EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "2900EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "3000EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "3100EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "3200EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "3300EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "3400EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "3500EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "3600EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "3700EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "3800EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3380
       },
       "3900EUR": {
-        "item": 0,
-        "total": 3733
+        "item": 1,
+        "total": 3381
       },
       "4000EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3381
       },
       "4100EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3381
       },
       "4200EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3381
       },
       "4300EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3381
       },
       "4400EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3381
       },
       "4500EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3381
       },
       "4600EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3381
       },
       "4700EUR": {
-        "item": 0,
-        "total": 3733
+        "item": 1,
+        "total": 3382
       },
       "4800EUR": {
-        "item": 0,
-        "total": 3733
+        "item": 1,
+        "total": 3383
       },
       "4900EUR": {
-        "item": 0,
-        "total": 3733
+        "item": 3,
+        "total": 3386
       },
       "5000EUR": {
-        "item": 0,
-        "total": 3733
+        "item": 1,
+        "total": 3387
       },
       "5100EUR": {
-        "item": 0,
-        "total": 3733
+        "item": 1,
+        "total": 3388
       },
       "5200EUR": {
-        "item": 0,
-        "total": 3733
+        "item": 1,
+        "total": 3389
       },
       "5300EUR": {
-        "item": 0,
-        "total": 3733
+        "item": 2,
+        "total": 3391
       },
       "5400EUR": {
-        "item": 0,
-        "total": 3733
+        "item": 1,
+        "total": 3392
       },
       "5500EUR": {
-        "item": 0,
-        "total": 3733
+        "item": 4,
+        "total": 3396
       },
       "5600EUR": {
         "item": 0,
-        "total": 3733
+        "total": 3396
       },
       "5700EUR": {
-        "item": 0,
-        "total": 3733
+        "item": 2,
+        "total": 3398
       },
       "5800EUR": {
-        "item": 0,
-        "total": 3733
+        "item": 1,
+        "total": 3399
       },
       "5900EUR": {
-        "item": 1,
-        "total": 3734
+        "item": 9,
+        "total": 3408
       },
       "6000EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 1,
+        "total": 3409
       },
       "6100EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 2,
+        "total": 3411
       },
       "6200EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 3,
+        "total": 3414
       },
       "6300EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 2,
+        "total": 3416
       },
       "6400EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 6,
+        "total": 3422
       },
       "6500EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 11,
+        "total": 3433
       },
       "6600EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 3,
+        "total": 3436
       },
       "6700EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 7,
+        "total": 3443
       },
       "6800EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 5,
+        "total": 3448
       },
       "6900EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 51,
+        "total": 3499
       },
       "7000EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 4,
+        "total": 3503
       },
       "7100EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 2,
+        "total": 3505
       },
       "7200EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 6,
+        "total": 3511
       },
       "7300EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 16,
+        "total": 3527
       },
       "7400EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 21,
+        "total": 3548
       },
       "7500EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 24,
+        "total": 3572
       },
       "7600EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 11,
+        "total": 3583
       },
       "7700EUR": {
-        "item": 0,
-        "total": 3734
+        "item": 22,
+        "total": 3605
       },
       "7800EUR": {
-        "item": 1,
-        "total": 3735
+        "item": 18,
+        "total": 3623
       },
       "7900EUR": {
-        "item": 0,
-        "total": 3735
+        "item": 116,
+        "total": 3739
       },
       "8000EUR": {
-        "item": 0,
-        "total": 3735
+        "item": 14,
+        "total": 3753
       }
     },
     "2100ccm": {
-      "capacityCount": 55,
-      "0EUR": {
-        "item": 0,
-        "total": 3735
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 3735
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 3735
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 3735
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 3735
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 3735
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 3735
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 3735
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 3735
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 3735
-      },
+      "capacityCount": 15,
       "1000EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "1100EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "1200EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "1300EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "1400EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "1500EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "1600EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "1700EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "1800EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "1900EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "2000EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "2100EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "2200EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "2300EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "2400EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "2500EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "2600EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "2700EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "2800EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "2900EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "3000EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "3100EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "3200EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "3300EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "3400EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "3500EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "3600EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "3700EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "3800EUR": {
         "item": 0,
-        "total": 3735
+        "total": 3753
       },
       "3900EUR": {
-        "item": 1,
-        "total": 3736
+        "item": 0,
+        "total": 3753
       },
       "4000EUR": {
         "item": 0,
-        "total": 3736
+        "total": 3753
       },
       "4100EUR": {
         "item": 0,
-        "total": 3736
+        "total": 3753
       },
       "4200EUR": {
         "item": 0,
-        "total": 3736
+        "total": 3753
       },
       "4300EUR": {
         "item": 0,
-        "total": 3736
+        "total": 3753
       },
       "4400EUR": {
         "item": 0,
-        "total": 3736
+        "total": 3753
       },
       "4500EUR": {
         "item": 0,
-        "total": 3736
+        "total": 3753
       },
       "4600EUR": {
         "item": 0,
-        "total": 3736
+        "total": 3753
       },
       "4700EUR": {
         "item": 0,
-        "total": 3736
+        "total": 3753
       },
       "4800EUR": {
         "item": 0,
-        "total": 3736
+        "total": 3753
       },
       "4900EUR": {
-        "item": 2,
-        "total": 3738
+        "item": 0,
+        "total": 3753
       },
       "5000EUR": {
         "item": 0,
-        "total": 3738
+        "total": 3753
       },
       "5100EUR": {
-        "item": 1,
-        "total": 3739
+        "item": 0,
+        "total": 3753
       },
       "5200EUR": {
         "item": 0,
-        "total": 3739
+        "total": 3753
       },
       "5300EUR": {
-        "item": 1,
-        "total": 3740
+        "item": 0,
+        "total": 3753
       },
       "5400EUR": {
         "item": 0,
-        "total": 3740
+        "total": 3753
       },
       "5500EUR": {
-        "item": 1,
-        "total": 3741
+        "item": 0,
+        "total": 3753
       },
       "5600EUR": {
         "item": 0,
-        "total": 3741
+        "total": 3753
       },
       "5700EUR": {
         "item": 0,
-        "total": 3741
+        "total": 3753
       },
       "5800EUR": {
         "item": 0,
-        "total": 3741
+        "total": 3753
       },
       "5900EUR": {
-        "item": 3,
-        "total": 3744
+        "item": 0,
+        "total": 3753
       },
       "6000EUR": {
         "item": 0,
-        "total": 3744
+        "total": 3753
       },
       "6100EUR": {
         "item": 0,
-        "total": 3744
+        "total": 3753
       },
       "6200EUR": {
-        "item": 2,
-        "total": 3746
+        "item": 0,
+        "total": 3753
       },
       "6300EUR": {
         "item": 0,
-        "total": 3746
+        "total": 3753
       },
       "6400EUR": {
-        "item": 1,
-        "total": 3747
+        "item": 0,
+        "total": 3753
       },
       "6500EUR": {
         "item": 0,
-        "total": 3747
+        "total": 3753
       },
       "6600EUR": {
         "item": 0,
-        "total": 3747
+        "total": 3753
       },
       "6700EUR": {
-        "item": 2,
-        "total": 3749
+        "item": 0,
+        "total": 3753
       },
       "6800EUR": {
-        "item": 1,
-        "total": 3750
+        "item": 0,
+        "total": 3753
       },
       "6900EUR": {
-        "item": 12,
-        "total": 3762
+        "item": 5,
+        "total": 3758
       },
       "7000EUR": {
         "item": 0,
-        "total": 3762
+        "total": 3758
       },
       "7100EUR": {
         "item": 1,
-        "total": 3763
+        "total": 3759
       },
       "7200EUR": {
-        "item": 2,
-        "total": 3765
+        "item": 1,
+        "total": 3760
       },
       "7300EUR": {
         "item": 1,
-        "total": 3766
+        "total": 3761
       },
       "7400EUR": {
-        "item": 7,
-        "total": 3773
+        "item": 2,
+        "total": 3763
       },
       "7500EUR": {
-        "item": 0,
-        "total": 3773
+        "item": 1,
+        "total": 3764
       },
       "7600EUR": {
         "item": 0,
-        "total": 3773
+        "total": 3764
       },
       "7700EUR": {
-        "item": 3,
-        "total": 3776
+        "item": 1,
+        "total": 3765
       },
       "7800EUR": {
-        "item": 1,
-        "total": 3777
+        "item": 0,
+        "total": 3765
       },
       "7900EUR": {
-        "item": 13,
-        "total": 3790
+        "item": 3,
+        "total": 3768
       },
       "8000EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       }
     },
     "2200ccm": {
-      "capacityCount": 9,
-      "0EUR": {
-        "item": 0,
-        "total": 3790
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 3790
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 3790
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 3790
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 3790
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 3790
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 3790
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 3790
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 3790
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 3790
-      },
+      "capacityCount": 40,
       "1000EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "1100EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "1200EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "1300EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "1400EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "1500EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "1600EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "1700EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "1800EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "1900EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "2000EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "2100EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "2200EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "2300EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "2400EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "2500EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "2600EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "2700EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "2800EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "2900EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "3000EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "3100EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "3200EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "3300EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "3400EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "3500EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "3600EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "3700EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3768
       },
       "3800EUR": {
-        "item": 0,
-        "total": 3790
+        "item": 1,
+        "total": 3769
       },
       "3900EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3769
       },
       "4000EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3769
       },
       "4100EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3769
       },
       "4200EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3769
       },
       "4300EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3769
       },
       "4400EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3769
       },
       "4500EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3769
       },
       "4600EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3769
       },
       "4700EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3769
       },
       "4800EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3769
       },
       "4900EUR": {
-        "item": 0,
-        "total": 3790
+        "item": 1,
+        "total": 3770
       },
       "5000EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3770
       },
       "5100EUR": {
-        "item": 0,
-        "total": 3790
+        "item": 1,
+        "total": 3771
       },
       "5200EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3771
       },
       "5300EUR": {
-        "item": 0,
-        "total": 3790
+        "item": 1,
+        "total": 3772
       },
       "5400EUR": {
-        "item": 0,
-        "total": 3790
+        "item": 1,
+        "total": 3773
       },
       "5500EUR": {
-        "item": 0,
-        "total": 3790
+        "item": 1,
+        "total": 3774
       },
       "5600EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3774
       },
       "5700EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3774
       },
       "5800EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3774
       },
       "5900EUR": {
-        "item": 0,
-        "total": 3790
+        "item": 1,
+        "total": 3775
       },
       "6000EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3775
       },
       "6100EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3775
       },
       "6200EUR": {
-        "item": 0,
-        "total": 3790
+        "item": 2,
+        "total": 3777
       },
       "6300EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3777
       },
       "6400EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3777
       },
       "6500EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3777
       },
       "6600EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3777
       },
       "6700EUR": {
-        "item": 0,
-        "total": 3790
+        "item": 1,
+        "total": 3778
       },
       "6800EUR": {
         "item": 0,
-        "total": 3790
+        "total": 3778
       },
       "6900EUR": {
-        "item": 2,
-        "total": 3792
+        "item": 9,
+        "total": 3787
       },
       "7000EUR": {
         "item": 0,
-        "total": 3792
+        "total": 3787
       },
       "7100EUR": {
         "item": 0,
-        "total": 3792
+        "total": 3787
       },
       "7200EUR": {
-        "item": 0,
-        "total": 3792
+        "item": 3,
+        "total": 3790
       },
       "7300EUR": {
-        "item": 0,
-        "total": 3792
+        "item": 1,
+        "total": 3791
       },
       "7400EUR": {
-        "item": 0,
-        "total": 3792
+        "item": 4,
+        "total": 3795
       },
       "7500EUR": {
-        "item": 1,
-        "total": 3793
+        "item": 0,
+        "total": 3795
       },
       "7600EUR": {
         "item": 0,
-        "total": 3793
+        "total": 3795
       },
       "7700EUR": {
-        "item": 0,
-        "total": 3793
+        "item": 1,
+        "total": 3796
       },
       "7800EUR": {
-        "item": 1,
-        "total": 3794
+        "item": 2,
+        "total": 3798
       },
       "7900EUR": {
-        "item": 4,
-        "total": 3798
+        "item": 9,
+        "total": 3807
       },
       "8000EUR": {
         "item": 1,
-        "total": 3799
+        "total": 3808
       }
     },
     "2300ccm": {
-      "capacityCount": 0,
-      "0EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 3799
-      },
+      "capacityCount": 7,
       "1000EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "1100EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "1200EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "1300EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "1400EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "1500EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "1600EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "1700EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "1800EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "1900EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "2000EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "2100EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "2200EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "2300EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "2400EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "2500EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "2600EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "2700EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "2800EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "2900EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "3000EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "3100EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "3200EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "3300EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "3400EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "3500EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "3600EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "3700EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "3800EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "3900EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "4000EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "4100EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "4200EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "4300EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "4400EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "4500EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "4600EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "4700EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "4800EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "4900EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "5000EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "5100EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "5200EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "5300EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "5400EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "5500EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "5600EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "5700EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "5800EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "5900EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "6000EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "6100EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "6200EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "6300EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "6400EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "6500EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "6600EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "6700EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "6800EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3808
       },
       "6900EUR": {
-        "item": 0,
-        "total": 3799
+        "item": 3,
+        "total": 3811
       },
       "7000EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3811
       },
       "7100EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3811
       },
       "7200EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3811
       },
       "7300EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3811
       },
       "7400EUR": {
-        "item": 0,
-        "total": 3799
+        "item": 1,
+        "total": 3812
       },
       "7500EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3812
       },
       "7600EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3812
       },
       "7700EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3812
       },
       "7800EUR": {
-        "item": 0,
-        "total": 3799
+        "item": 1,
+        "total": 3813
       },
       "7900EUR": {
-        "item": 0,
-        "total": 3799
+        "item": 2,
+        "total": 3815
       },
       "8000EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       }
     },
     "2400ccm": {
-      "capacityCount": 2,
-      "0EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 3799
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 3799
-      },
+      "capacityCount": 0,
       "1000EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "1100EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "1200EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "1300EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "1400EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "1500EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "1600EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "1700EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "1800EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "1900EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "2000EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "2100EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "2200EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "2300EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "2400EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "2500EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "2600EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "2700EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "2800EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "2900EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "3000EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "3100EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "3200EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "3300EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "3400EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "3500EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "3600EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "3700EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "3800EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "3900EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "4000EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "4100EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "4200EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "4300EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "4400EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "4500EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "4600EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "4700EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "4800EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "4900EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "5000EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "5100EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "5200EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "5300EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "5400EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "5500EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "5600EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "5700EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "5800EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "5900EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "6000EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "6100EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "6200EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "6300EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "6400EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "6500EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "6600EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "6700EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "6800EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "6900EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "7000EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "7100EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "7200EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "7300EUR": {
         "item": 0,
-        "total": 3799
+        "total": 3815
       },
       "7400EUR": {
-        "item": 1,
-        "total": 3800
+        "item": 0,
+        "total": 3815
       },
       "7500EUR": {
         "item": 0,
-        "total": 3800
+        "total": 3815
       },
       "7600EUR": {
         "item": 0,
-        "total": 3800
+        "total": 3815
       },
       "7700EUR": {
         "item": 0,
-        "total": 3800
+        "total": 3815
       },
       "7800EUR": {
         "item": 0,
-        "total": 3800
+        "total": 3815
       },
       "7900EUR": {
-        "item": 1,
-        "total": 3801
+        "item": 0,
+        "total": 3815
       },
       "8000EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       }
     },
     "2500ccm": {
-      "capacityCount": 0,
-      "0EUR": {
-        "item": 0,
-        "total": 3801
-      },
-      "100EUR": {
-        "item": 0,
-        "total": 3801
-      },
-      "200EUR": {
-        "item": 0,
-        "total": 3801
-      },
-      "300EUR": {
-        "item": 0,
-        "total": 3801
-      },
-      "400EUR": {
-        "item": 0,
-        "total": 3801
-      },
-      "500EUR": {
-        "item": 0,
-        "total": 3801
-      },
-      "600EUR": {
-        "item": 0,
-        "total": 3801
-      },
-      "700EUR": {
-        "item": 0,
-        "total": 3801
-      },
-      "800EUR": {
-        "item": 0,
-        "total": 3801
-      },
-      "900EUR": {
-        "item": 0,
-        "total": 3801
-      },
+      "capacityCount": 3,
       "1000EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "1100EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "1200EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "1300EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "1400EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "1500EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "1600EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "1700EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "1800EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "1900EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "2000EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "2100EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "2200EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "2300EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "2400EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "2500EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "2600EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "2700EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "2800EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "2900EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "3000EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "3100EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "3200EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "3300EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "3400EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "3500EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "3600EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "3700EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "3800EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "3900EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "4000EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "4100EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "4200EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "4300EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "4400EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "4500EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "4600EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "4700EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "4800EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "4900EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "5000EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "5100EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "5200EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "5300EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3815
       },
       "5400EUR": {
-        "item": 0,
-        "total": 3801
+        "item": 1,
+        "total": 3816
       },
       "5500EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "5600EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "5700EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "5800EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "5900EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "6000EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "6100EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "6200EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "6300EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "6400EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "6500EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "6600EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "6700EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "6800EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "6900EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "7000EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "7100EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "7200EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "7300EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3816
       },
       "7400EUR": {
-        "item": 0,
-        "total": 3801
+        "item": 1,
+        "total": 3817
       },
       "7500EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3817
       },
       "7600EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3817
       },
       "7700EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3817
       },
       "7800EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3817
       },
       "7900EUR": {
-        "item": 0,
-        "total": 3801
+        "item": 1,
+        "total": 3818
       },
       "8000EUR": {
         "item": 0,
-        "total": 3801
+        "total": 3818
       }
     },
-    "total": 3801
+    "total": 3818
   }
 ]
