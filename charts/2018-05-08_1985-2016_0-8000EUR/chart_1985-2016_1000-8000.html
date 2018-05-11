@@ -239,7 +239,7 @@
 //////////////////////////////
 
             function getDataFromFile(year){
-                $.getJSON(rootURL+"db/"+searchParams.statYear+"-05-08_1985-2016_0-8000EUR/all_"+searchParams.fuel+"_1985-2016_1000-8000EURO/mobileDe_statistic"+year+".json")
+                $.getJSON(rootURL+"db/"+searchParams.statYear+"_1985-2016_0-8000EUR/all_"+searchParams.fuel+"_1985-2016_1000-8000EURO/mobileDe_statistic"+year+".json")
                 .done(function(receivedData){
                     storeDataObject[searchParams.fuel][year] = receivedData[0];
                     getDataFromFile(year+1);
