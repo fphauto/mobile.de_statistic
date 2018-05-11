@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <body>
+        <script src="/mobile.de_statistic/rootURL.js"></script>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+        <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+
+        <script src="https://code.highcharts.com/highcharts.js"></script>
+        <script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+        <script src="capacity_chart.js"></script>
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+        <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+        <script>
+            var totalCount = 0;
+            var storeDataObject = {
+                petrol: {},
+                diesel: {}
+            };
+
+            var fuelTitle = {
+                all: "БЕНЗИН и ДИЗЕЛЬ",
+                petrol: "БЕНЗИН",
+                diesel: "ДИЗЕЛЬ"
+            }
+
+            var searchParams = {
+                chartType: "year",
+                fuel: "diesel",
+                statYear: "2018-05-08",
+                all: {
+                    rangePrice: {
+                        start:"1000",
+                        end:"8000"
+                    },
+                    rangeYear: {
+                        start: "1985",
+                        end: "2016"
+                    },
+                    rangeCapacity:{
+                        start: "600",
+                        end: "3000"
+                    }
+                },
+
+                petrol: {
+                    rangePrice: {
+                        start:"1000",
+                        end:"8000"
+                    },
+                    rangeYear: {
+                        start: "1985",
+                        end: "2016"
+                    },
+                    rangeCapacity:{
+                        start: "600",
+                        end: "3000"
+                    }
+                },
+
+                diesel: {
+                    rangePrice: {
+                        start:"1000",
+                        end:"8000"
+                    },
+                    rangeYear: {
+                        start: "1985",
+                        end: "2016"
+                    },
+                    rangeCapacity:{
+                        start: "600",
+                        end: "2500"
+                    }
+                }
+                
+            };
+
+            getDataFromFile(1985); //ToDO need refactor
+
+            $(function(){ //ToDo need refactor
+                $("select.yearStart").on("change", function(){
+                    var fuel = searchParams.fuel;
+                    searchParams[fuel].rangeYear.start = this.value;
+
+                    handler();
+                });
+
+                $("select.yearEnd").on("change", function(){
+                    var fuel = searchParams.fuel;
+                    searchParams[fuel].rangeYear.end = this.value;
+
+                    handler();
+                });
+
+                $("select.capacityStart").on("change", function(){
+                    var fuel = searchParams.fuel;
+                    searchParams[fuel].rangeCapacity.start = this.value;
+
+                    handler();
+                });
+
+                $("select.capacityEnd").on("change", function(){
+                    var fuel = searchParams.fuel;
+                    searchParams[fuel].rangeCapacity.end = this.value;
+
+                    handler();
+                });
+
+                $("select.priceStart").on("change", function(){
+                    var fuel = searchParams.fuel;
+                    searchParams[fuel].rangePrice.start = this.value;
+
+                    handler();
+                });
+
+                $("select.priceEnd").on("change", function(){
+                    var fuel = searchParams.fuel;
+                    searchParams[fuel].rangePrice.end = this.value;
+
+                    handler();
+                });
+
+                $("select.statYear").on("change", function(){
+                    handler();
+                });
+
+                $("select.chartType").on("change", function(){
+                    searchParams.chartType = this.value;
+
+                    handler();
+                });
+
+                $("select.fuelType").on("change", function(){
+                    searchParams.fuel = this.value;
+                    if(_.isEmpty(storeDataObject[this.value])){
+                        getDataFromFile(1985);
+                    } else {
+                        handler();
+                    }
+                });
+                
+            });
+
+            function handler(){
+                setParamsInFilters();
+                prepareData();
+            }
+
+            function setParamsInFilters(){
+                var fuel = searchParams.fuel;
+
+                $("select.yearStart").val(searchParams[fuel].rangeYear.start);
+                $("select.yearEnd").val(searchParams[fuel].rangeYear.end);
+                $("select.capacityStart").val(searchParams[fuel].rangeCapacity.start);
+                $("select.capacityEnd").val(searchParams[fuel].rangeCapacity.end);
+                $("select.priceStart").val(searchParams[fuel].rangePrice.start);
+                $("select.priceEnd").val(searchParams[fuel].rangePrice.end);
+                $("select.fuelType").val(searchParams.fuel);
+                $("select.chartType").val(searchParams.chartType);
+                $("select.statYear").val(searchParams.statYear);
+            }
+
+            function prepareData(){
+                renderDataObject = {};
+                totalCount = 0;
+
+                if(searchParams.fuel === "all"){
+                    _.each(["petrol", "diesel"], function(fuel){
+                        fillRenderDataObject(fuel);
+                    });
+                } else {
+                    fillRenderDataObject();
+                }
+
+                chartParams = generateChartParams(renderDataObject, totalCount);
+                renderChart(chartParams);
+            }
+
+            function fillRenderDataObject(fuel){ // ToDo need refactor
+                var fuel = fuel || searchParams.fuel;
+
+                _.each(storeDataObject[fuel], function(value, year){
+                    if(year >= searchParams[fuel].rangeYear.start && year <= searchParams[fuel].rangeYear.end){
+                        _.each(value, function(item, capacity){
+                            if(parseInt(capacity) >= searchParams[fuel].rangeCapacity.start && parseInt(capacity) <= searchParams[fuel].rangeCapacity.end){
+                                if(capacity === "total") return;
+                                _.each(item, function(obj, price){
+                                    if(parseInt(price) >= searchParams[fuel].rangePrice.start && parseInt(price) <= searchParams[fuel].rangePrice.end){
+                                        var key;
+                                        if(price === "capacityCount") return;
+
+                                        if(searchParams.chartType === "capacity"){
+                                            key = capacity;
+                                        } else if (searchParams.chartType === "year"){
+                                            key = year;
+                                        } else if (searchParams.chartType === "price"){
+                                            key = price;
+                                        }
+
+                                        if(!renderDataObject[key]){
+                                            renderDataObject[key] = obj.item
+                                        }else{
+                                            renderDataObject[key] = renderDataObject[key] + obj.item
+                                        }
+
+                                        totalCount = totalCount + obj.item;
+                                    }
+                                });    
+                            }
+                        });
+                    }
+                });
+            }
+
+            function generateChartParams(renderDataObject, totalCount){ // ToDo rename function
+                var fuel = searchParams.fuel;
+                return {
+                    titleText: 'Статистика предложений на сайте Mobile.De '+ searchParams.date
+                        +' (Сортировка по объему ДВС, '+ fuelTitle[searchParams.fuel]
+                        +', ' + searchParams[fuel].rangeCapacity.start + '-'
+                        + searchParams[fuel].rangeCapacity.end
+                        + 'куб. см, цена '+ searchParams[fuel].rangePrice.start + '-' + searchParams[fuel].rangePrice.end 
+                        +' евро, '+ searchParams[fuel].rangeYear.start + '-' + searchParams[fuel].rangeYear.end+')',
+                    categories: _.keys(renderDataObject),
+                    series: {
+                        name: "Обшее количество автомобилей " + totalCount,
+                        data: _.values(renderDataObject)
+                    }
+                }
+            }
+
+//////////////////////////////
+
+            function getDataFromFile(year){
+                $.getJSON(rootURL+"db/"+searchParams.statYear+"-05-08_1985-2016_0-8000EUR/all_"+searchParams.fuel+"_1985-2016_1000-8000EURO/mobileDe_statistic"+year+".json")
+                .done(function(receivedData){
+                    storeDataObject[searchParams.fuel][year] = receivedData[0];
+                    getDataFromFile(year+1);
+                })
+                .fail(function(error){
+                    if(error.status === 404){
+                        setParamsInFilters();
+                        prepareData();
+                    }
+                });
+            }
+////////////////////////////////////
+        </script>
+        <div>
+            Статистика на 
+            <select class="statYear">
+                <option value="2017-05-08">2017</option>
+                <option value="2018-05-08">2018</option>
+            </select>
+            Тип топлива:
+            <select class="fuelType">
+                <option value="all">любой</option>
+                <option value="petrol">бензин</option>
+                <option value="diesel">дизель</option>
+            </select>
+
+            <select class="chartType">
+                <option value="year">по году</option>
+                <option value="capacity">по объему</option>
+                <option value="price">по цене</option>
+            </select>
+            <hr>
+            <div>
+                <div>
+                    Oбъем двигателя от
+                    <select class="capacityStart">
+                        <option>600</option>
+                        <option>700</option>
+                        <option>800</option>
+                        <option>900</option>
+                        <option>1000</option>
+                        <option>1100</option>
+                        <option>1200</option>
+                        <option>1300</option>
+                        <option>1400</option>
+                        <option>1500</option>
+                        <option>1600</option>
+                        <option>1700</option>
+                        <option>1800</option>
+                        <option>1900</option>
+                        <option>2000</option>
+                        <option>2100</option>
+                        <option>2200</option>
+                        <option>2300</option>
+                        <option>2400</option>
+                        <option>2500</option>
+                        <option>2600</option>
+                        <option>2700</option>
+                        <option>2800</option>
+                        <option>2900</option>
+                        <option>3000</option>
+                        <option>3100</option>
+                        <option>3200</option>
+                        <option>3300</option>
+                        <option>3400</option>
+                        <option>3500</option>
+                    </select>
+                    до 
+                    <select class="capacityEnd">
+                        <option>600</option>
+                        <option>700</option>
+                        <option>800</option>
+                        <option>900</option>
+                        <option>1000</option>
+                        <option>1100</option>
+                        <option>1200</option>
+                        <option>1300</option>
+                        <option>1400</option>
+                        <option>1500</option>
+                        <option>1600</option>
+                        <option>1700</option>
+                        <option>1800</option>
+                        <option>1900</option>
+                        <option>2000</option>
+                        <option>2100</option>
+                        <option>2200</option>
+                        <option>2300</option>
+                        <option>2400</option>
+                        <option>2500</option>
+                        <option>2600</option>
+                        <option>2700</option>
+                        <option>2800</option>
+                        <option>2900</option>
+                        <option>3000</option>
+                        <option>3100</option>
+                        <option>3200</option>
+                        <option>3300</option>
+                        <option>3400</option>
+                        <option>3500</option>
+                    </select>
+                </div>
+                <div>
+                    Дата изготовления автомобиля
+                    от 
+                    <select class="yearStart">
+                        <option>1985</option>
+                        <option>1986</option>
+                        <option>1987</option>
+                        <option>1988</option>
+                        <option>1989</option>
+                        <option>1990</option>
+                        <option>1991</option>
+                        <option>1992</option>
+                        <option>1993</option>
+                        <option>1994</option>
+                        <option>1995</option>
+                        <option>1996</option>
+                        <option>1997</option>
+                        <option>1998</option>
+                        <option>1999</option>
+                        <option>2000</option>
+                        <option>2001</option>
+                        <option>2002</option>
+                        <option>2003</option>
+                        <option>2004</option>
+                        <option>2005</option>
+                        <option>2006</option>
+                        <option>2007</option>
+                        <option>2008</option>
+                        <option>2009</option>
+                        <option>2010</option>
+                        <option>2011</option>
+                        <option>2012</option>
+                        <option>2013</option>
+                        <option>2014</option>
+                        <option>2015</option>
+                        <option>2016</option>
+                        <option>2017</option>
+                        <option>2018</option>
+                    </select>
+                    до
+                    <select class="yearEnd">
+                        <option>1985</option>
+                        <option>1986</option>
+                        <option>1987</option>
+                        <option>1988</option>
+                        <option>1989</option>
+                        <option>1990</option>
+                        <option>1991</option>
+                        <option>1992</option>
+                        <option>1993</option>
+                        <option>1994</option>
+                        <option>1995</option>
+                        <option>1996</option>
+                        <option>1997</option>
+                        <option>1998</option>
+                        <option>1999</option>
+                        <option>2000</option>
+                        <option>2001</option>
+                        <option>2002</option>
+                        <option>2003</option>
+                        <option>2004</option>
+                        <option>2005</option>
+                        <option>2006</option>
+                        <option>2007</option>
+                        <option>2008</option>
+                        <option>2009</option>
+                        <option>2010</option>
+                        <option>2011</option>
+                        <option>2012</option>
+                        <option>2013</option>
+                        <option>2014</option>
+                        <option>2015</option>
+                        <option>2016</option>
+                        <option>2017</option>
+                        <option>2018</option>
+                    </select>
+                </div>
+                <div>
+                    Цена
+                    от
+                    <select class="priceStart">
+                        <option>500</option>
+                        <option>600</option>
+                        <option>700</option>
+                        <option>800</option>
+                        <option>900</option>
+                        <option>1000</option>
+                        <option>1100</option>
+                        <option>1200</option>
+                        <option>1300</option>
+                        <option>1400</option>
+                        <option>1500</option>
+                        <option>1600</option>
+                        <option>1700</option>
+                        <option>1800</option>
+                        <option>1900</option>
+                        <option>2000</option>
+                        <option>2100</option>
+                        <option>2200</option>
+                        <option>2300</option>
+                        <option>2400</option>
+                        <option>2500</option>
+                        <option>2600</option>
+                        <option>2700</option>
+                        <option>2800</option>
+                        <option>2900</option>
+                        <option>3000</option>
+                        <option>3100</option>
+                        <option>3200</option>
+                        <option>3300</option>
+                        <option>3400</option>
+                        <option>3500</option>
+                        <option>3600</option>
+                        <option>3700</option>
+                        <option>3800</option>
+                        <option>3900</option>
+                        <option>4000</option>
+                        <option>4100</option>
+                        <option>4200</option>
+                        <option>4300</option>
+                        <option>4400</option>
+                        <option>4500</option>
+                        <option>4600</option>
+                        <option>4700</option>
+                        <option>4800</option>
+                        <option>4900</option>
+                        <option>5000</option>
+                        <option>5100</option>
+                        <option>5200</option>
+                        <option>5300</option>
+                        <option>5400</option>
+                        <option>5500</option>
+                        <option>5600</option>
+                        <option>5700</option>
+                        <option>5800</option>
+                        <option>5900</option>
+                        <option>6000</option>
+                        <option>6100</option>
+                        <option>6200</option>
+                        <option>6300</option>
+                        <option>6400</option>
+                        <option>6500</option>
+                        <option>6600</option>
+                        <option>6700</option>
+                        <option>6800</option>
+                        <option>6900</option>
+                        <option>7000</option>
+                        <option>7100</option>
+                        <option>7200</option>
+                        <option>7300</option>
+                        <option>7400</option>
+                        <option>7500</option>
+                        <option>7600</option>
+                        <option>7700</option>
+                        <option>7800</option>
+                        <option>7900</option>
+                        <option>8000</option>
+                    </select>
+                    до
+                    <select class="priceEnd">
+                        <option>500</option>
+                        <option>600</option>
+                        <option>700</option>
+                        <option>800</option>
+                        <option>900</option>
+                        <option>1000</option>
+                        <option>1100</option>
+                        <option>1200</option>
+                        <option>1300</option>
+                        <option>1400</option>
+                        <option>1500</option>
+                        <option>1600</option>
+                        <option>1700</option>
+                        <option>1800</option>
+                        <option>1900</option>
+                        <option>2000</option>
+                        <option>2100</option>
+                        <option>2200</option>
+                        <option>2300</option>
+                        <option>2400</option>
+                        <option>2500</option>
+                        <option>2600</option>
+                        <option>2700</option>
+                        <option>2800</option>
+                        <option>2900</option>
+                        <option>3000</option>
+                        <option>3100</option>
+                        <option>3200</option>
+                        <option>3300</option>
+                        <option>3400</option>
+                        <option>3500</option>
+                        <option>3600</option>
+                        <option>3700</option>
+                        <option>3800</option>
+                        <option>3900</option>
+                        <option>4000</option>
+                        <option>4100</option>
+                        <option>4200</option>
+                        <option>4300</option>
+                        <option>4400</option>
+                        <option>4500</option>
+                        <option>4600</option>
+                        <option>4700</option>
+                        <option>4800</option>
+                        <option>4900</option>
+                        <option>5000</option>
+                        <option>5100</option>
+                        <option>5200</option>
+                        <option>5300</option>
+                        <option>5400</option>
+                        <option>5500</option>
+                        <option>5600</option>
+                        <option>5700</option>
+                        <option>5800</option>
+                        <option>5900</option>
+                        <option>6000</option>
+                        <option>6100</option>
+                        <option>6200</option>
+                        <option>6300</option>
+                        <option>6400</option>
+                        <option>6500</option>
+                        <option>6600</option>
+                        <option>6700</option>
+                        <option>6800</option>
+                        <option>6900</option>
+                        <option>7000</option>
+                        <option>7100</option>
+                        <option>7200</option>
+                        <option>7300</option>
+                        <option>7400</option>
+                        <option>7500</option>
+                        <option>7600</option>
+                        <option>7700</option>
+                        <option>7800</option>
+                        <option>7900</option>
+                        <option>8000</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
