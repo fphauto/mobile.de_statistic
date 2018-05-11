@@ -5,7 +5,9 @@
         <title></title>
     </head>
     <body>
-        <script src="/mobile.de_statistic/rootURL.js"></script>
+                <!-- <script src="/mobile.de_statistic/rootURL.js"></script> -->
+
+        <script src="../../rootURL.js"></script> <!-- ToDo -->
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
         <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
@@ -31,10 +33,15 @@
                 diesel: "ДИЗЕЛЬ"
             }
 
+            function getStatUrl(){
+
+                return "db/"+searchParams.statYear+"-05-08_1985-"+(searchParams.statYear-1)+"_1000-8000EUR/all_"+searchParams.fuel+"_1985-"+(searchParams.statYear-1)+"_1000-8000EURO"
+            }
+
             var searchParams = {
                 chartType: "year",
                 fuel: "diesel",
-                statYear: "2018-05-08",
+                statYear: "2017",
                 all: {
                     rangePrice: {
                         start:"1000",
@@ -128,7 +135,8 @@
                 });
 
                 $("select.statYear").on("change", function(){
-                    handler();
+                    searchParams.statYear = this.value;
+                    getDataFromFile(1985);
                 });
 
                 $("select.chartType").on("change", function(){
@@ -239,7 +247,7 @@
 //////////////////////////////
 
             function getDataFromFile(year){
-                $.getJSON(rootURL+"db/"+searchParams.statYear+"_1985-2016_0-8000EUR/all_"+searchParams.fuel+"_1985-2016_1000-8000EURO/mobileDe_statistic"+year+".json")
+                $.getJSON(rootURL+getStatUrl()+"/mobileDe_statistic"+year+".json")
                 .done(function(receivedData){
                     storeDataObject[searchParams.fuel][year] = receivedData[0];
                     getDataFromFile(year+1);
@@ -251,13 +259,14 @@
                     }
                 });
             }
+
 ////////////////////////////////////
         </script>
         <div>
             Статистика на 
             <select class="statYear">
-                <option value="2017-05-08">2017</option>
-                <option value="2018-05-08">2018</option>
+                <option value="2017">2017</option>
+                <option value="2018">2018</option>
             </select>
             Тип топлива:
             <select class="fuelType">
